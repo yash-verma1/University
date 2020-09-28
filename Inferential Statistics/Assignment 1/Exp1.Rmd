@@ -1,0 +1,298 @@
+---
+title: "Project-1"
+author: "Yash Verma"
+date: "31 August 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#Rolling a dice
+**Code for a normal Dice:** 
+```{r}
+roll<-function(){
+  die<-1:6
+  dice<-sample(die,size=2,replace=TRUE)
+  sum(dice)
+}
+
+rolls<-replicate(10000,roll())
+
+```
+  
+    
+**Code for a weighted Dice:**
+```{r}
+roll1<-function(){
+  die<-1:6
+  dice<-sample(die,size=2,replace=TRUE,prob<-c(1/8,1/8,1/8,1/8,1/8,3/8))
+  sum(dice)
+}
+
+rolls1<-replicate(10000,roll1())
+
+```
+
+```{r fig.width=3.5,fig.height=3,echo=FALSE}
+library(ggplot2)
+qplot(rolls,binwidth=1,main="Unbiased Dice")
+qplot(rolls1,binwidth=1,main="Biased Dice")
+```
+
+\newpage
+#A deck of Cards
+
+**Code for a deck made using a data frame**
+```{r}
+deck <- data.frame(
+  face = c("king", "queen", "jack", "ten", "nine", "eight", "seven", "six",
+           "five", "four", "three", "two", "ace", "king", "queen", "jack", "ten",
+           "nine", "eight", "seven", "six", "five", "four", "three", "two", "ace",
+           "king", "queen", "jack", "ten", "nine", "eight", "seven", "six", "five",
+           "four", "three", "two", "ace", "king", "queen", "jack", "ten", "nine",
+           "eight", "seven", "six", "five", "four", "three", "two", "ace"),
+  suit = c("spades", "spades", "spades", "spades", "spades", "spades",
+           "spades", "spades", "spades", "spades", "spades", "spades", "spades",
+           "clubs", "clubs", "clubs", "clubs", "clubs", "clubs", "clubs", "clubs",
+           "clubs", "clubs", "clubs", "clubs", "clubs", "diamonds", "diamonds",
+           "diamonds", "diamonds", "diamonds", "diamonds", "diamonds", "diamonds",
+           "diamonds", "diamonds", "diamonds", "diamonds", "diamonds", "hearts",
+           "hearts", "hearts", "hearts", "hearts", "hearts", "hearts", "hearts",
+           "hearts", "hearts", "hearts", "hearts", "hearts"),
+  value = c(13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 13, 12, 11, 10, 9, 8,
+            7, 6, 5, 4, 3, 2, 1, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 13, 12, 11,
+            10, 9, 8, 7, 6, 5, 4, 3, 2, 1)
+)
+```
+
+**Code for dealing a Card from the Deck**
+```{r}
+deal <- function(deck){
+  deck[1,]
+}
+
+deal(deck)
+```
+
+
+**Code for shuffling a deck**
+```{r}
+shuffle<-function(deck){
+  random<-sample(1:52,size=52)
+  deck[random, ]
+}
+```
+
+**Changing the value of a particular card in a shuffled deck**
+```{r}
+deck2 <- shuffle(deck)
+deck2$value[deck2$face=="ace"]<-14
+```
+
+*To remove the 'Not Available' data while calculations, we use the ```na.rm = TRUE```*
+
+**Real life card dealing**
+```{r}
+deal<-function(){
+  card<-deck[1,]
+  assign("deck",deck[-1,],envir=globalenv())
+  card
+}
+```
+**Real life shuffling**
+```{r}
+shuffle<-function(){
+  random <- sample(1:52,size=52)
+  assign("deck",deck[random, ],envir = globalenv())
+}
+```
+**Keeping original deck safe/Closure**
+```{r}
+setup <- function(deck) {
+DECK <- deck
+DEAL <- function() {
+card <- deck[1, ]
+assign("deck", deck[-1, ], envir = parent.env(environment()))
+card
+}
+SHUFFLE <- function(){
+random <- sample(1:52, size = 52)
+assign("deck", DECK[random, ], envir = parent.env(environment()))
+}
+list(deal = DEAL, shuffle = SHUFFLE)
+}
+
+cards <- setup(deck)
+deal <- cards$deal
+shuffle <- cards$shuffle
+```
+
+*Closure ensures that even if we remove the original deck, we can continue playing cards*
+
+\newpage
+#Slot Machine
+A code in R which allows us to play the most popular mordern casino game.
+\newline
+Symbols used include the following : \newline
+DD  - Diamonds    (0.03)\newline
+7   - Seven       (0.03)\newline
+BBB - Triple Bars (0.06) \newline
+BB  - Double Bars (0.1) \newline
+B   - Single Bars (0.25) \newline
+C   - Cherries    (0.01) \newline
+0   - Zeros       (0.52) \newline
+with the probabilities in the brackets. \newline
+Symbols are selected randomly using the sample function and the code is as follows:
+```{r}
+get_symbols <- function() {
+  wheel <- c("DD","7","BBB","BB","B","C","0")
+  sample(wheel,size = 3,replace= TRUE,prob = c(0.03,0.03,0.06,0.1,0.25,0.01,0.52))
+}
+
+get_symbols()
+```
+For the actual game, we need to assign score to the symbols and that can be done via the score function. The score of the 3 random symbols obtained from 'get_symbols' is extracted from a lookup table which has all the values.
+\newline
+The code is as follows : 
+```{r}
+score <- function(symbols){
+  same <- symbols[1] == symbols[2] && symbols[2] == symbols[3]
+  bars <- symbols %in% c("B","BB","BBB")
+  if(same){
+    payouts <- c("DD" = 100,
+                 "7" = 80,
+                 "BBB" = 40,
+                 "BB" = 25,
+                 "B" = 10,
+                 "C" = 10,
+                 "0" = 0)
+    prize <- unname(payouts[symbols[1]])
+  }
+  else if(all(bars)){
+    prize <- 5
+  }
+  else{
+    cherries <- sum(symbols == "C")
+    prize <- c(0,2,5)[cherries +1]
+  }
+  
+  diamonds <- sum(symbols == "DD")
+  prize * 2 ^ diamonds
+}
+```
+The game can be run using this function which calls the get_symbols() functions and the score() function.
+```{r}
+play <- function(){
+  symbols <- get_symbols()
+  print(symbols)
+  score(symbols)
+}
+play()
+```
+Modified play() function to store the values of the symbols as attributes with the value of prize. 
+```{r}
+play <- function(){
+  symbols <- get_symbols()
+  structure(score(symbols),symbols = symbols)
+}
+play()
+```
+The structure function creates an object with a set of attributes. The first argument should be a R object or set of values and the remaining arguments should be named attributes for the structure to add to the object.
+\newline
+The attributes now can be used to create a slot_display() functiona as follows:
+```{r}
+slot_display <- function(prize){
+  #extract the symbols
+  symbols <- attr(prize,"symbols")    
+  #combine symbol with prize as a regular expression
+  symbols <- paste(symbols,collapse = " ")
+  #append with new line character
+  string <- paste(symbols,prize,sep="\n$")  
+  cat(string)   #display without quotes
+}
+one_play <- play()
+```
+We use expand.grid to find out all the possible combinations of a vector with another vector. Using this we calculate the possible combinations of the wheel.
+```{r}
+wheel <- c("DD","7","BBB","BB","B","C","0")
+combos <- expand.grid(wheel,wheel,wheel,stringsAsFactors = FALSE)
+head(combos,3)
+```
+This creates a variable combos with 343 observations.
+\newline
+We then create a new lookup table for the probabilites and add those values to combos as a factor and, calculate and add a total probability for each of the combination. 
+```{r}
+prob <- c("DD" = 0.03,"7" = 0.03,"BBB" = 0.06,"BB" = 0.1,"B" = 0.25,"C" = 0.01,"0" = 0.52)
+
+combos$prob1 <- prob[combos$Var1]
+combos$prob2 <- prob[combos$Var2]
+combos$prob3 <- prob[combos$Var3]
+
+combos$prob = combos$prob1 * combos$prob2 * combos$prob3
+head(combos,3)
+```
+To store the prize along with the combinations, we use a for loop and add prize as a factor.
+```{r}
+combos$prize <- NA
+for(i in 1:nrow(combos)){
+  symbols <- c(combos[i,1],combos[i,2],combos[i,3])
+  combos$prize[i] <- score(symbols)
+}
+head(combos,3)
+```
+The expected value of the prize won is given by 
+```{r}
+sum(combos$prize * combos$prob)
+```
+This value is less than the value mentioned by the manufacturer because of the wild card "DD".
+\newline
+Correcting the code to fix the wild card problem and recalculating the expected value of prize.
+```{r}
+score <- function(symbols){
+  diamonds <- sum(symbols == "DD")
+  cherries <- sum(symbols == "C")
+  #case identification
+  slots <- symbols[symbols != "DD"]
+  same <- length(unique(slots)) == 1
+  bars <- slots %in% c("B","BB","BBB")
+  #assign prize
+  if(diamonds == 3){
+    prize <- 100
+  } else if(same){
+    payouts <- c("7"=80,"BBB"=40,"BB"=25,"B"=10,"C"=10,"0"=0)
+    prize <- unname(payouts[slots[1]])
+  } else if(all(bars)){
+    prize <- 5
+  } else if(cherries > 0){
+    prize <- c(0,2,5)[cherries + diamonds + 1]
+  } else {
+    prize <- 0
+  }
+  #double the prize for each diamond
+  prize * 2^diamonds  
+}
+
+#reassinging the prize value
+combos$prize <- NA
+for(i in 1:nrow(combos)){
+  symbols <- c(combos[i,1],combos[i,2],combos[i,3])
+  combos$prize[i] <- score(symbols)
+}
+
+#finding sum
+sum(combos$prize * combos$prob)
+```
+To demonstrate the playing in till the cash runs out 
+```{r}
+plays_till_broke <- function(start_with) {
+  cash <- start_with
+  n<-0
+  while(cash >0){
+    cash <- cash - 1 + play()
+    n <- n + 1
+  }
+  n
+}
+n
+```

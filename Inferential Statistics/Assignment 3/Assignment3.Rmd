@@ -1,0 +1,231 @@
+---
+title: "Assignment 3 - Confidence Interval and Hypothesis Testing"
+author: "Yash Verma"
+date: "November 28, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#Confidence Interval and Hypothesis Testing:
+
+##1. In a filament cut test, a razor blade was tested six different times with ultimate forces corresponding to 8.5, 13.9, 7.4, 10.3, 15.7, and 4.0 g.
+###(a) Find a 95% confidence interval on the mean using the standard Student's t-distribution
+```{r}
+set.seed(1)
+x<-c(8.5, 13.9, 7.4, 10.3, 15.7, 4.0)
+summary(x)
+c(var(x), sd(x))
+shapiro.test(x)
+n <- length(x) 
+n
+mean(x) + qt(0.975, n - 1) * sd(x) * c( - 1, + 1)/sqrt(n) 
+```
+
+###(b)Find a 95% confidence interval on the mean using Efron's percentile method.
+###For the mean, we have a formula for the standard error, namely ?? n, where ?? is the population standard deviation and n is the sample size. This can be estimated for any sample by Sh = s n. This estimate should be acceptable for moderate to large sample sizes ( n at least 30 or more):
+```{r}
+set.seed(1) 
+u0 <- mean(x) 
+Sh <- sd(x)/sqrt(n)
+thetas <- NULL
+tstar <- NULL
+for (i in 1:1000) { 
+ xx <- sample(x, n, replace = TRUE) 
+ u <- mean(xx) 
+ thetas[i] <-u 
+ tstar[i] <- ((u-u0)/sd(xx)/sqrt(n)) 
+ }
+ c(u0, mean(thetas))
+ c(Sh, sd(thetas)) 
+ summary(tstar)
+ quantile(tstar, probs = c(0.025,0.975)) 
+ qt(c(0.025,0.975), n - 1) 
+ u0 + quantile(tstar, probs = c(0.025,0.975)) * Sh
+ u0 + qt(c(0.025,0.975), n - 1) * Sh 
+```
+
+###The mean of the sample (9.9666) is very close to the mean of the bootstrap sampling distribution (9.9263), because the mean is an unbiased estimator. The standard errors are not quite as close (1.7587 vs. 1.5955). The t* quantiles ( ??? 0.4938 and +0.4117) are somewhat different from Student ' s t - quantiles ( ??? 2.57 and + 2.57), reflecting the asymmetry of the underlying distribution. This results in a very slightly different confidence interval estimate: (9.098, 10.690) for the bootstrap and (5.445, 14.48) for Student ' s t -based method assuming normality. The closeness of the two intervals suggests the accuracy of both.
+ 
+###The function " boott " from the package" bootstrap " is used for comparison:
+ 
+```{r}
+ set.seed(1) 
+ require('bootstrap')
+ boott(x, theta = mean, sdfun = function(x,nbootsd,theta)
+{sqrt(var(x)/length(x))},
+ nboott = 1000, perc = c(0.025,0.975))
+```
+
+###(c)Find a 95% confidence interval on the mean using the BCa method and the ABC method.
+```{r}
+set.seed(1) 
+require('boot')
+fboot<- function(x, i) mean(x[i])
+bs<- boot(x, fboot, R = 1000) 
+boot.ci(bs, type='bca' , conf = 0.95)
+fabc <- function(x, w) w%*%x
+abc.ci(x, fabc, conf=0.95) 
+```
+###The 95% confi dence interval estimates for the BCa and ABC methods are (6.75, 13.30)and (6.863, 13.157), comparable to those found before. It should be noted that the ABC method is both very fast computationally and very accurate, typically giving intervals very close to those obtained from the BCa method.
+
+###(d)Find a 95% confidence interval on the mean using the percentile-t method
+```{r}
+set.seed(1) 
+boott(x, theta = mean, nbootsd = 100, nboott = 1000,
+perc = c(0.025,0.975))
+```
+
+###(e)How do the intervals compare? Which intervals do you trust? What does this tell you about the benefits of parametric methods on small (n < 30) samples and the problems of using bootstrap on such samples? What does it tell you about the percentile-t method compared with the other bootstrap methods, at least when a formula for the standard error is known?
+###Ans: As nSize becomes large, the differences among methods shrink in size. For nSize (nSize=The sample size of the originating data that is to be bootstrapped) small (10 or less), the normal - t method performs best, probably because nSize is too small for the generation of reasonable resampling distributions. Regardless of this, it should be noted that all methods have large coverage errors for nSize = 100 or less, and this does not improve much even for nSize as large as 2000.
+
+##2. United States Environmental Protection Agency (USEPA) deems peanut butter adulterated if the mean aflatoxin residue is 20 ppb or more. The industry average for peanut was found to be 5.7 ppb in 1990 by consumer reports. In actual testing, 12 lots of peanut butter had aflatoxin residues in parts per billion of 4.94, 5.06, 4.53, 5.07, 4.99, 5.16, 4.38, 4.43, 4.93, 4.72, 4.92, and 4.96.
+###(a)Estimate an Efron percentile bootstrap 90% confidence interval on the mean aflatoxin residue. Use B = 1000 resamples.
+```{r}
+ set.seed(1)
+ x <-c(4.94, 5.06, 4.53, 5.07, 4.99, 5.16, 4.38, 4.43, 4.93, 4.72, 4.92, 4.96)
+ summary(x)
+ c(var(x), sd(x))
+ shapiro.test(x)
+ n <- length(x)
+ n
+ mean(x) + qt(0.950, n - 1) * sd(x) * c( - 1, + 1)/sqrt(n) 
+ u0 <- mean(x) 
+ Sh <- sd(x)/sqrt(n)
+ thetas <- NULL
+ tstar <- NULL
+ for (i in 1:1000) { 
+   xx <- sample(x, n, replace = TRUE) 
+   u <- mean(xx) 
+   thetas[i] <-u 
+   tstar[i] <- ((u-u0)/sd(xx)/sqrt(n)) #pivotal quantity
+ }
+ c(u0, mean(thetas)) 
+ c(Sh, sd(thetas)) 
+ summary(tstar)
+ quantile(tstar, probs = c(0.05,0.95)) 
+ qt(c(0.050,0.950), n - 1)
+ u0 + quantile(tstar, probs = c(0.05,0.95)) * Sh 
+ u0 + qt(c(0.05,0.95), n - 1) * Sh 
+
+ set.seed(1) 
+ require('bootstrap')
+ boott(x, theta = mean, sdfun = function(x,nbootsd,theta)
+ {sqrt(var(x)/length(x))},
+ nboott = 1000, perc = c(0.05,0.95))
+```
+
+###(b) Compare the alfatoxin level found with the industry average value of 5.7 ppm: Is the upper confidence limit less than 5.7 ppb, or is it equal or above? What does this imply about a hypothesis test of H0 : ? ??? 5.7 ppb versus H1 : ? < 5.7 ppb at the ?? = 0.05 significance level?
+```{r}
+ set.seed(1)
+ x <-c(4.94, 5.06, 4.53, 5.07, 4.99, 5.16, 4.38, 4.43, 4.93, 4.72, 4.92, 4.96)
+ summary(x)
+ c(var(x), sd(x))
+ shapiro.test(x)
+ n <- length(x) 
+ n
+ mean(x) + qt(0.975, n - 1) * sd(x) * c( - 1, + 1)/sqrt(n)
+ 
+ set.seed(1)
+ u0 <- mean(x)
+ Sh <- sd(x)/sqrt(n)
+ thetas <- NULL
+ tstar <- NULL
+ for (i in 1:1000) { 
+   xx <- sample(x, n, replace = TRUE)
+   u <- mean(xx) 
+   thetas[i] <-u 
+   tstar[i] <- ((u-u0)/sd(xx)/sqrt(n)) 
+ }
+ c(u0, mean(thetas))  
+ c(Sh, sd(thetas))  
+ summary(tstar)
+ quantile(tstar, probs = c(0.025,0.975)) 
+ qt(c(0.025,0.975), n - 1)  
+ u0 + quantile(tstar, probs = c(0.025,0.975)) * Sh 
+ u0 + qt(c(0.025,0.975), n - 1) * Sh 
+ 
+ set.seed(1) 
+ require('bootstrap')
+ boott(x, theta = mean, sdfun = function(x,nbootsd,theta)
+ {sqrt(var(x)/length(x))},
+ nboott = 1000, perc = c(0.025,0.975)) 
+ 
+ set.seed(1) 
+ boott(x, theta = mean, nbootsd = 100, nboott = 1000,
+       perc = c(0.025,0.975)) 
+``` 
+###The confidence points are 4.55 and 4.99. The upper confidence limit is less than 5.7 ppb. Thus, we reject the null hypothesis (H0).
+
+###(c) Find the P-value for the test in (b)
+
+###The p value can be found using the t-test since the population standard deviation is unknown.
+###Population mean (pm)= 5.7
+###Sample mean (sm)= 4.84
+###samples size (n)= 12
+###degree of freedom (df)= 11
+###Sample standard deviation (ssd)=  0.262
+###Formula : t: (sm-pm)/(ssd/sqrt(n))
+```{r}
+x <-c(4.94, 5.06, 4.53, 5.07, 4.99, 5.16, 4.38, 4.43, 4.93, 4.72, 4.92, 4.96)
+sm<-mean(x)
+ssd<-sd(x)
+pm <-5.7
+n<-12
+t<-(sm-pm)/(ssd/sqrt(12))
+t
+p<- 1*pt(-abs(t),df=n-1)
+p
+```
+##3.
+###Find the observed Recall R, Precision P, and the figure of merit F2.
+
+```{r}
+(r <- 123/(123+625))
+
+(p <- 123/(123+27))
+
+(f2 <- p * r / (0.8 * p + 0.2 * r))
+```
+
+###Resample the 2 ? 2 contingency table B = 1000 times.
+
+```{r}
+set.seed(1)
+nt <- 150
+nc <- 7328
+xt <- 123
+xc <- 625
+numresamp <- 1000
+n <- nt + nc
+number1s <- xt+xc
+number0s <- n - number1s
+pop <- c(rep(1,number1s), rep(0,number0s))
+obspthat <- xt/nt
+obspchat <- xc/nc
+obsdiff <- obspthat - obspchat
+simdiffs <- rep(0, numresamp)
+for(i in 1:numresamp)
+{
+  resampt <- sample(pop, nt, replace = T)
+  resampc <- sample(pop, nc, replace = T)
+  simdiffs[i] <- sum(resampt)/nt - sum(resampc)/nc
+}
+
+head(simdiffs)
+```
+
+###Find 90% and 95% confidence intervals for the true F2 for the complete database using Efron's percentile method.
+
+```{r}
+quantile(simdiffs, probs = c(0.05,0.95))
+
+quantile(simdiffs, probs = c(0.025,0.975))
+```
+
+###Conduct a test at the 0.05 significance level of H0 : F2 $\le$ 0.4 versus H1 : F2 > 0.4. Should the search service be engaged for this lawsuit?
+
+```{r}
+t.test(simdiffs, mu = 0.4, alternative = "greater")
+```

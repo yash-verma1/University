@@ -1,0 +1,25 @@
+---
+title: "D3"
+author: "Yash Verma"
+date: "17/10/2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+***Click on links to access content***
+
+#Link to Website : [D3.html](http://yashverma.xyz/YashD3.html)
+#Link to file : [GitHub](https://github.com/yashv625/DS412-D3-Assignment/blob/master/YashD3.html)
+
+#Screenshots
+![](~/Documents/NU/IS/Lab/Ass2/Files/D3/Output1.png)
+![](~/Documents/NU/IS/Lab/Ass2/Files/D3/Output2.png)
+![](~/Documents/NU/IS/Lab/Ass2/Files/D3/Output3.png)
+![](~/Documents/NU/IS/Lab/Ass2/Files/D3/Output4.png)
+![](~/Documents/NU/IS/Lab/Ass2/Files/D3/Output5.png)
+![](~/Documents/NU/IS/Lab/Ass2/Files/D3/Output6.png)
+![](~/Documents/NU/IS/Lab/Ass2/Files/D3/Output7.png)
+![](~/Documents/NU/IS/Lab/Ass2/Files/D3/Output8.png)

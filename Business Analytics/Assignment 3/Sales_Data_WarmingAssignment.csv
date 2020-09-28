@@ -1,0 +1,1001 @@
+No,Customerid,Product ,Category ,Age ,Income ,DSA,City,SECODE,SEAGE,Qualitfication,Pricing
+1,MUM001,Savings Account,NMC,21-30,"388,662",ZARETH,MUM,Z9,59,4,Discount
+2,MUM002,LIC,NMC,51-60,"98,530",CRACKF,MUM,C2,37,2,Discount
+3,MUM003,Savings Account,Self Employed,31-40,"407,739",BENYYZ,MUM,E1,38,4,No Discount
+4,MUM004,Executive - Credit Card ,Salaried - MNC,gt 60,"439,175",ATTAGG,MUM,T1,49,5,No Discount
+5,MUM005,Childrens Plan,Salaried - MNC,51-60,"22,659",ZARETH,MUM,Z9,59,4,No Discount
+6,MUM006,Executive - Credit Card ,NMC,gt 60,"255,807",BRUTEK,MUM,B2,37,3,No Discount
+7,MUM007,Metlife - General Insurance ,Salaried - Pvt Ltd ,21-30,"212,059",DUMRAC,MUM,D2,28,3,No Discount
+8,MUM008,AIG - Health Insurance ,Self Employed,gt 60,"467,146",CRACKF,MUM,C4,56,4,Discount
+9,MUM009,AIG - Health Insurance ,Housewife,41-50,"263,448",DUMRAC,MUM,D1,28,5,Discount
+10,MUM010,Metlife - General Insurance ,Salaried - Pvt Ltd ,51-60,"127,419",ARTFIN,MUM,A3,33,3,Discount
+11,MUM011,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,21-30,"186,526",ATTAGG,MUM,T13,46,4,Discount
+12,MUM012,Savings Account,Salaried - Pvt Ltd ,21-30,"189,007",CRACKF,MUM,C2,37,2,Discount
+13,MUM013,Savings Account,Salaried - MNC,41-50,"453,900",ATTAGG,MUM,T6,32,3,Discount
+14,MUM014,Mutual Funds - TATA,NMC,31-40,"435,607",ATTAGG,MUM,T7,28,4,Discount
+15,MUM015,Metlife - General Insurance ,Housewife,41-50,"481,403",ATTAGG,MUM,T2,43,5,No Discount
+16,MUM016,LIC,Salaried - MNC,51-60,"262,366",ARTFIN,MUM,A5,40,2,No Discount
+17,MUM017,Childrens Plan,Salaried - MNC,31-40,"378,958",BRUTEK,MUM,B1,41,3,No Discount
+18,MUM018,Mutual Funds - TATA,Self Employed,21-30,"350,256",ATTAGG,MUM,T6,32,3,No Discount
+19,MUM019,Metlife - General Insurance ,Salaried - MNC,31-40,"465,535",BENYYZ,MUM,E1,38,4,No Discount
+20,MUM020,LIC,Housewife,31-40,"191,564",ATTAGG,MUM,T1,49,5,Discount
+21,MUM021,AIG - Health Insurance ,Housewife,51-60,"442,206",ATTAGG,MUM,T13,46,4,Discount
+22,MUM022,Metlife - General Insurance ,Self Employed,21-30,"353,285",ARTFIN,MUM,A3,33,3,Discount
+23,MUM023,Metlife - General Insurance ,Self Employed,gt 60,"151,911",DUMRAC,MUM,D2,28,3,Discount
+24,MUM024,Savings Account,NMC,gt 60,"499,833",ARTFIN,MUM,A5,40,2,No Discount
+25,MUM025,Gold - Credit Card ,Housewife,21-30,"404,589",ZARETH,MUM,Z8,38,5,No Discount
+26,MUM026,Savings Account,Housewife,21-30,"124,444",BRUTEK,MUM,B1,41,3,Discount
+27,MUM027,Executive - Credit Card ,Housewife,gt 60,"403,062",ARTFIN,MUM,A3,33,3,Discount
+28,MUM028,Savings Account,NMC,41-50,"17,790",BRUTEK,MUM,B6,58,1,No Discount
+29,MUM029,Mutual Funds - TATA,Salaried - MNC,21-30,"450,705",CRACKF,MUM,C1,42,2,No Discount
+30,MUM030,Mutual Funds - Franklin Temploton,Self Employed,51-60,"336,964",ATTAGG,MUM,T1,49,5,No Discount
+31,MUM031,Executive - Credit Card ,Housewife,gt 60,"226,247",DUMRAC,MUM,D2,28,3,No Discount
+32,MUM032,LIC,Self Employed,gt 60,"292,997",ARTFIN,MUM,A3,33,3,Discount
+33,MUM033,Current Account,Salaried - Pvt Ltd ,gt 60,"451,059",CRACKF,MUM,C3,45,4,Discount
+34,MUM034,LIC,Salaried - MNC,31-40,"96,756",DUMRAC,MUM,D1,28,5,No Discount
+35,MUM035,Current Account,Salaried - MNC,51-60,"337,968",ZARETH,MUM,Z8,38,5,No Discount
+36,MUM036,Savings Account,NMC,gt 60,"188,141",ZARETH,MUM,Z10,58,1,Discount
+37,MUM037,Metlife - General Insurance ,Salaried - MNC,41-50,"91,399",ATTAGG,MUM,T7,28,4,No Discount
+38,MUM038,Classic Card ,Salaried - Pvt Ltd ,41-50,"114,973",ATTAGG,MUM,T3,42,4,Discount
+39,MUM039,Childrens Plan,Salaried - MNC,51-60,"292,672",BENYYZ,MUM,E1,38,4,Discount
+40,MUM040,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,31-40,"505,249",BENYYZ,MUM,E1,38,4,No Discount
+41,MUM041,LIC,Self Employed,31-40,"93,151",ATTAGG,MUM,T2,43,5,No Discount
+42,MUM042,Gold - Credit Card ,Self Employed,41-50,"435,609",ATTAGG,MUM,T11,33,2,Discount
+43,MUM043,Current Account,Salaried - Pvt Ltd ,21-30,"354,516",BENYYZ,MUM,E1,38,4,No Discount
+44,MUM044,Mutual Funds - Franklin Temploton,Housewife,41-50,"545,356",ARTFIN,MUM,A3,33,3,Discount
+45,MUM045,Mutual Funds - TATA,Salaried - Pvt Ltd ,gt 60,"220,169",BRUTEK,MUM,B5,22,3,No Discount
+46,MUM046,Metlife - General Insurance ,Housewife,21-30,"341,873",ATTAGG,MUM,T4,44,5,Discount
+47,MUM047,Classic Card ,NMC,21-30,"434,853",ATTAGG,MUM,T13,46,4,Discount
+48,MUM048,Gold - Credit Card ,Salaried - Pvt Ltd ,51-60,"427,056",DUMRAC,MUM,D2,28,3,No Discount
+49,BGL001,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,gt 60,"109,418",ARTFIN,BGL,A3,33,3,Discount
+50,BGL002,Metlife - General Insurance ,Housewife,31-40,"123,812",DUMRAC,BGL,D3,55,3,No Discount
+51,BGL003,Gold - Credit Card ,Self Employed,21-30,"79,098",ZARETH,BGL,Z10,58,1,Discount
+52,BGL004,Mutual Funds - Fidelity ,Self Employed,gt 60,"74,767",ZARETH,BGL,Z2,39,3,No Discount
+53,BGL005,LIC,Self Employed,41-50,"113,072",BENYYZ,BGL,E1,38,4,No Discount
+54,BGL006,Savings Account,Salaried - Pvt Ltd ,41-50,"55,541",BENYYZ,BGL,E1,38,4,Discount
+55,BGL007,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,31-40,"136,232",ZARETH,BGL,Z7,42,5,Discount
+56,BGL008,Mutual Funds - Fidelity ,Salaried - MNC,31-40,"125,515",CRACKF,BGL,C1,42,2,Discount
+57,BGL009,Executive - Credit Card ,Self Employed,21-30,"146,133",BRUTEK,BGL,B2,37,3,Discount
+58,BGL010,AIG - Health Insurance ,NMC,gt 60,"119,484",BENYYZ,BGL,E1,38,4,Discount
+59,BGL011,Childrens Plan,Housewife,21-30,"126,509",DUMRAC,BGL,D3,55,3,No Discount
+60,BGL012,LIC,NMC,21-30,"142,735",ARTFIN,BGL,A4,60,2,Discount
+61,BGL013,Savings Account,Self Employed,51-60,"127,453",ARTFIN,BGL,A7,24,2,No Discount
+62,BGL014,Childrens Plan,NMC,51-60,"74,798",ZARETH,BGL,Z5,57,1,No Discount
+63,BGL015,Current Account,Salaried - MNC,gt 60,"130,966",ARTFIN,BGL,A3,33,3,No Discount
+64,BGL016,Mutual Funds - Fidelity ,Housewife,41-50,"83,155",ZARETH,BGL,Z7,42,5,No Discount
+65,BGL017,Current Account,Self Employed,41-50,"132,988",BRUTEK,BGL,B6,58,1,Discount
+66,BGL018,Classic Card ,Salaried - MNC,41-50,"102,170",ZARETH,BGL,Z5,57,1,No Discount
+67,BGL019,Mutual Funds - TATA,Housewife,21-30,"115,568",BENYYZ,BGL,E1,38,4,Discount
+68,BGL020,Current Account,Housewife,51-60,"122,685",ZARETH,BGL,Z10,58,1,No Discount
+69,BGL021,Executive - Credit Card ,NMC,gt 60,"118,587",CRACKF,BGL,C1,42,2,Discount
+70,BGL022,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,21-30,"94,751",ZARETH,BGL,Z10,58,1,No Discount
+71,BGL023,LIC,Salaried - MNC,51-60,"141,627",BRUTEK,BGL,B1,41,3,No Discount
+72,BGL024,LIC,Salaried - Pvt Ltd ,31-40,"114,067",ATTAGG,BGL,T4,44,5,Discount
+73,BGL025,Classic Card ,Salaried - MNC,41-50,"84,137",ATTAGG,BGL,T2,43,5,No Discount
+74,BGL026,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,21-30,"145,295",ZARETH,BGL,Z6,57,2,Discount
+75,BGL027,Mutual Funds - Fidelity ,Self Employed,31-40,"106,499",BRUTEK,BGL,B4,48,3,No Discount
+76,BGL028,Childrens Plan,Housewife,31-40,"119,961",DUMRAC,BGL,D3,55,3,Discount
+77,BGL029,Executive - Credit Card ,Housewife,41-50,"97,622",ARTFIN,BGL,A7,24,2,Discount
+78,BGL030,Gold - Credit Card ,Housewife,31-40,"88,917",ZARETH,BGL,Z2,39,3,Discount
+79,BGL031,Metlife - General Insurance ,Self Employed,31-40,"61,604",ZARETH,BGL,Z3,29,4,No Discount
+80,BGL032,Mutual Funds - Fidelity ,Salaried - MNC,51-60,"116,841",BENYYZ,BGL,E1,38,4,Discount
+81,BGL033,LIC,Salaried - MNC,51-60,"104,779",BENYYZ,BGL,E1,38,4,No Discount
+82,BGL034,AIG - Health Insurance ,Housewife,gt 60,"126,335",ATTAGG,BGL,T2,43,5,Discount
+83,BGL035,Mutual Funds - Fidelity ,Housewife,51-60,"97,253",ARTFIN,BGL,A4,60,2,No Discount
+84,BGL036,Mutual Funds - TATA,Salaried - MNC,21-30,"60,362",ZARETH,BGL,Z4,22,1,Discount
+85,BGL037,Mutual Funds - TATA,NMC,41-50,"142,497",ATTAGG,BGL,T1,49,5,Discount
+86,BGL038,Gold - Credit Card ,Self Employed,21-30,"117,286",DUMRAC,BGL,D2,28,3,Discount
+87,BGL039,Current Account,Salaried - Pvt Ltd ,41-50,"141,180",ZARETH,BGL,Z6,57,2,No Discount
+88,BGL040,Executive - Credit Card ,Self Employed,51-60,"68,093",BRUTEK,BGL,B3,35,5,Discount
+89,BGL041,LIC,Housewife,41-50,"73,647",ZARETH,BGL,Z2,39,3,No Discount
+90,BGL042,Metlife - General Insurance ,Salaried - MNC,21-30,"72,230",ATTAGG,BGL,T4,44,5,Discount
+91,BGL043,AIG - Health Insurance ,Salaried - MNC,31-40,"133,629",CRACKF,BGL,C4,56,4,Discount
+92,BGL044,Savings Account,Salaried - MNC,31-40,"74,580",DUMRAC,BGL,D2,28,3,Discount
+93,BGL045,Metlife - General Insurance ,Salaried - Pvt Ltd ,51-60,"99,057",BENYYZ,BGL,E1,38,4,No Discount
+94,BGL046,Gold - Credit Card ,Salaried - MNC,31-40,"131,451",ZARETH,BGL,Z2,39,3,No Discount
+95,BGL047,Mutual Funds - Franklin Temploton,Salaried - MNC,51-60,"130,681",CRACKF,BGL,C1,42,2,Discount
+96,KOL001,AIG - Health Insurance ,Salaried - MNC,21-30,"106,172",BRUTEK,KOL,B4,48,3,Discount
+97,KOL002,Mutual Funds - Fidelity ,Salaried - MNC,21-30,"61,325",CRACKF,KOL,C3,45,4,No Discount
+98,KOL003,Mutual Funds - Franklin Temploton,NMC,51-60,"102,000",BENYYZ,KOL,E1,38,4,Discount
+99,KOL004,Current Account,Housewife,31-40,"114,396",DUMRAC,KOL,D3,55,3,Discount
+100,KOL005,Childrens Plan,Salaried - MNC,gt 60,"83,265",BENYYZ,KOL,E1,38,4,No Discount
+101,KOL006,Executive - Credit Card ,Self Employed,41-50,"92,376",ATTAGG,KOL,T8,27,5,Discount
+102,KOL007,Mutual Funds - Franklin Temploton,NMC,41-50,"134,987",ARTFIN,KOL,A3,33,3,No Discount
+103,KOL008,Classic Card ,Self Employed,gt 60,"112,873",BENYYZ,KOL,E1,38,4,Discount
+104,KOL009,Current Account,NMC,21-30,"79,551",ARTFIN,KOL,A3,33,3,Discount
+105,KOL010,Mutual Funds - Fidelity ,Salaried - MNC,21-30,"134,638",ARTFIN,KOL,A2,38,2,Discount
+106,KOL011,Gold - Credit Card ,Housewife,21-30,"105,118",DUMRAC,KOL,D2,28,3,Discount
+107,KOL012,Current Account,Self Employed,21-30,"144,880",BENYYZ,KOL,E1,38,4,No Discount
+108,KOL013,Mutual Funds - Fidelity ,NMC,gt 60,"110,627",BRUTEK,KOL,B6,58,1,Discount
+109,KOL014,Gold - Credit Card ,Salaried - MNC,31-40,"69,026",ATTAGG,KOL,T8,27,5,Discount
+110,KOL015,Savings Account,Salaried - Pvt Ltd ,31-40,"107,166",ZARETH,KOL,Z10,58,1,No Discount
+111,KOL016,Mutual Funds - TATA,Self Employed,31-40,"64,335",CRACKF,KOL,C3,45,4,No Discount
+112,KOL017,Childrens Plan,Housewife,41-50,"9,915",ZARETH,KOL,Z1,54,5,No Discount
+113,KOL018,Mutual Funds - Fidelity ,Self Employed,41-50,"147,658",ATTAGG,KOL,T8,27,5,Discount
+114,KOL019,Childrens Plan,NMC,31-40,"33,777",CRACKF,KOL,C2,37,2,No Discount
+115,KOL020,Gold - Credit Card ,NMC,51-60,"144,476",CRACKF,KOL,C4,56,4,Discount
+116,KOL021,LIC,NMC,51-60,"24,179",ZARETH,KOL,Z5,57,1,No Discount
+117,KOL022,Classic Card ,NMC,21-30,"114,033",ZARETH,KOL,Z10,58,1,Discount
+118,KOL023,Savings Account,Salaried - Pvt Ltd ,41-50,"114,229",CRACKF,KOL,C3,45,4,Discount
+119,KOL024,Childrens Plan,NMC,51-60,"46,271",ATTAGG,KOL,T7,28,4,Discount
+120,KOL025,Metlife - General Insurance ,NMC,51-60,"145,172",ATTAGG,KOL,T10,42,5,No Discount
+121,KOL026,Executive - Credit Card ,Salaried - Pvt Ltd ,gt 60,"27,315",BENYYZ,KOL,E1,38,4,No Discount
+122,KOL027,Mutual Funds - TATA,Salaried - Pvt Ltd ,41-50,"63,247",BENYYZ,KOL,E1,38,4,Discount
+123,KOL028,Mutual Funds - Fidelity ,NMC,31-40,"17,859",DUMRAC,KOL,D3,55,3,No Discount
+124,KOL029,Gold - Credit Card ,NMC,41-50,"91,695",ZARETH,KOL,Z4,22,1,Discount
+125,KOL030,Savings Account,Salaried - MNC,41-50,"128,803",DUMRAC,KOL,D1,28,5,Discount
+126,KOL031,Mutual Funds - Franklin Temploton,NMC,gt 60,"5,613",BENYYZ,KOL,E1,38,4,Discount
+127,KOL032,LIC,NMC,21-30,"71,074",CRACKF,KOL,C4,56,4,No Discount
+128,KOL033,Savings Account,Housewife,gt 60,"90,998",ATTAGG,KOL,T4,44,5,No Discount
+129,KOL034,Current Account,Self Employed,31-40,"87,192",BRUTEK,KOL,B5,22,3,Discount
+130,KOL035,Metlife - General Insurance ,NMC,21-30,"38,793",ATTAGG,KOL,T1,49,5,No Discount
+131,KOL036,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,51-60,"129,972",DUMRAC,KOL,D1,28,5,No Discount
+132,KOL037,Current Account,Salaried - MNC,31-40,"82,732",DUMRAC,KOL,D1,28,5,No Discount
+133,KOL038,Classic Card ,NMC,gt 60,"61,196",ZARETH,KOL,Z7,42,5,Discount
+134,KOL039,Mutual Funds - Franklin Temploton,Self Employed,21-30,"78,147",BRUTEK,KOL,B5,22,3,No Discount
+135,KOL040,Savings Account,Housewife,41-50,"16,877",BENYYZ,KOL,E1,38,4,No Discount
+136,KOL041,Mutual Funds - TATA,Salaried - Pvt Ltd ,gt 60,"140,218",CRACKF,KOL,C2,37,2,Discount
+137,KOL042,Executive - Credit Card ,Housewife,51-60,"84,405",DUMRAC,KOL,D3,55,3,No Discount
+138,KOL043,Gold - Credit Card ,Housewife,41-50,"113,561",ARTFIN,KOL,A3,33,3,No Discount
+139,KOL044,Executive - Credit Card ,Housewife,21-30,"101,451",ARTFIN,KOL,A5,40,2,Discount
+140,KOL045,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,31-40,"14,100",CRACKF,KOL,C2,37,2,Discount
+141,KOL046,Mutual Funds - TATA,NMC,41-50,"18,480",BRUTEK,KOL,B2,37,3,No Discount
+142,KOL047,Mutual Funds - TATA,NMC,21-30,"117,614",DUMRAC,KOL,D1,28,5,Discount
+143,KOL048,Metlife - General Insurance ,Salaried - Pvt Ltd ,41-50,"135,793",BENYYZ,KOL,E1,38,4,No Discount
+144,KOL049,Executive - Credit Card ,Self Employed,41-50,"115,106",ZARETH,KOL,Z6,57,2,No Discount
+145,KOL050,Classic Card ,Self Employed,51-60,"53,039",CRACKF,KOL,C3,45,4,Discount
+146,KOL051,Mutual Funds - Fidelity ,Housewife,21-30,"54,756",BRUTEK,KOL,B1,41,3,Discount
+147,KOL052,Mutual Funds - TATA,Salaried - MNC,41-50,"9,359",BRUTEK,KOL,B1,41,3,No Discount
+148,KOL053,Mutual Funds - Fidelity ,NMC,gt 60,"28,640",DUMRAC,KOL,D2,28,3,No Discount
+149,KOL054,Mutual Funds - TATA,Salaried - MNC,gt 60,"98,389",DUMRAC,KOL,D3,55,3,Discount
+150,KOL055,Mutual Funds - TATA,Salaried - MNC,gt 60,"96,891",ARTFIN,KOL,A3,33,3,Discount
+151,KOL056,Gold - Credit Card ,NMC,41-50,"42,435",BENYYZ,KOL,E1,38,4,Discount
+152,KOL057,Gold - Credit Card ,Salaried - MNC,gt 60,"75,530",BENYYZ,KOL,E1,38,4,No Discount
+153,KOL058,LIC,NMC,gt 60,"94,838",BRUTEK,KOL,B5,22,3,No Discount
+154,KOL059,AIG - Health Insurance ,Salaried - MNC,gt 60,"20,404",DUMRAC,KOL,D1,28,5,Discount
+155,KOL060,Executive - Credit Card ,Salaried - MNC,21-30,"63,703",ZARETH,KOL,Z9,59,4,No Discount
+156,KOL061,AIG - Health Insurance ,Self Employed,51-60,"32,795",ARTFIN,KOL,A7,24,2,Discount
+157,KOL062,Classic Card ,Salaried - Pvt Ltd ,gt 60,"31,732",ATTAGG,KOL,T13,46,4,Discount
+158,KOL063,Mutual Funds - TATA,Self Employed,31-40,"110,619",DUMRAC,KOL,D1,28,5,No Discount
+159,KOL064,Executive - Credit Card ,Self Employed,31-40,"11,314",ARTFIN,KOL,A6,47,2,No Discount
+160,KOL065,Childrens Plan,NMC,gt 60,"84,070",CRACKF,KOL,C4,56,4,No Discount
+161,KOL066,AIG - Health Insurance ,Salaried - Pvt Ltd ,41-50,"113,824",BRUTEK,KOL,B4,48,3,No Discount
+162,KOL067,AIG - Health Insurance ,Salaried - Pvt Ltd ,21-30,"77,516",DUMRAC,KOL,D3,55,3,Discount
+163,KOL068,Mutual Funds - TATA,Housewife,51-60,"44,884",ARTFIN,KOL,A7,24,2,No Discount
+164,KOL069,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,gt 60,"98,574",ZARETH,KOL,Z7,42,5,No Discount
+165,KOL070,LIC,NMC,gt 60,"79,978",ZARETH,KOL,Z7,42,5,Discount
+166,KOL071,Mutual Funds - Fidelity ,Housewife,41-50,"104,333",BENYYZ,KOL,E1,38,4,Discount
+167,KOL072,Savings Account,Salaried - Pvt Ltd ,31-40,"17,874",BENYYZ,KOL,E1,38,4,No Discount
+168,KOL073,Current Account,NMC,51-60,"129,855",CRACKF,KOL,C2,37,2,No Discount
+169,KOL074,Metlife - General Insurance ,Salaried - Pvt Ltd ,21-30,"88,350",BRUTEK,KOL,B3,35,5,Discount
+170,KOL075,Classic Card ,Housewife,21-30,"29,293",DUMRAC,KOL,D2,28,3,Discount
+171,KOL076,Metlife - General Insurance ,Salaried - Pvt Ltd ,41-50,"115,046",DUMRAC,KOL,D3,55,3,Discount
+172,KOL077,Gold - Credit Card ,Salaried - MNC,41-50,"133,605",BENYYZ,KOL,E1,38,4,No Discount
+173,KOL078,AIG - Health Insurance ,Salaried - Pvt Ltd ,41-50,"105,558",BENYYZ,KOL,E1,38,4,Discount
+174,KOL079,Current Account,NMC,21-30,"44,726",ARTFIN,KOL,A5,40,2,No Discount
+175,KOL080,Metlife - General Insurance ,Salaried - MNC,51-60,"85,426",ZARETH,KOL,Z9,59,4,No Discount
+176,KOL081,Mutual Funds - TATA,Self Employed,gt 60,"86,318",ARTFIN,KOL,A4,60,2,No Discount
+177,KOL082,Executive - Credit Card ,Salaried - MNC,31-40,"64,875",ZARETH,KOL,Z9,59,4,Discount
+178,KOL083,Metlife - General Insurance ,NMC,31-40,"135,428",DUMRAC,KOL,D2,28,3,No Discount
+179,KOL084,Classic Card ,Self Employed,gt 60,"148,180",CRACKF,KOL,C2,37,2,Discount
+180,KOL085,Mutual Funds - TATA,Salaried - MNC,31-40,"27,612",BRUTEK,KOL,B5,22,3,No Discount
+181,KOL086,Mutual Funds - Fidelity ,NMC,41-50,"16,685",ARTFIN,KOL,A3,33,3,Discount
+182,KOL087,AIG - Health Insurance ,Salaried - Pvt Ltd ,31-40,"83,232",ATTAGG,KOL,T11,33,2,Discount
+183,KOL088,Savings Account,Salaried - MNC,31-40,"131,886",CRACKF,KOL,C3,45,4,Discount
+184,KOL089,Savings Account,NMC,41-50,"133,540",DUMRAC,KOL,D3,55,3,No Discount
+185,KOL090,Mutual Funds - TATA,Self Employed,41-50,"135,733",DUMRAC,KOL,D2,28,3,No Discount
+186,KOL091,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,31-40,"38,682",ATTAGG,KOL,T8,27,5,No Discount
+187,KOL092,Current Account,Salaried - Pvt Ltd ,31-40,"50,116",BENYYZ,KOL,E1,38,4,Discount
+188,KOL093,Gold - Credit Card ,Self Employed,gt 60,"99,787",BENYYZ,KOL,E1,38,4,Discount
+189,KOL094,Metlife - General Insurance ,Salaried - MNC,41-50,"60,039",DUMRAC,KOL,D2,28,3,No Discount
+190,KOL095,Classic Card ,NMC,41-50,"14,369",CRACKF,KOL,C2,37,2,Discount
+191,KOL096,Savings Account,Self Employed,51-60,"68,467",BENYYZ,KOL,E1,38,4,No Discount
+192,KOL097,Gold - Credit Card ,Housewife,51-60,"94,769",ZARETH,KOL,Z7,42,5,Discount
+193,KOL098,AIG - Health Insurance ,Housewife,31-40,"34,701",CRACKF,KOL,C3,45,4,No Discount
+194,KOL099,AIG - Health Insurance ,Salaried - Pvt Ltd ,41-50,"37,158",DUMRAC,KOL,D3,55,3,Discount
+195,KOL100,LIC,Salaried - Pvt Ltd ,21-30,"101,370",ATTAGG,KOL,T13,46,4,No Discount
+196,KOL101,Metlife - General Insurance ,Salaried - Pvt Ltd ,41-50,"71,075",BENYYZ,KOL,E1,38,4,No Discount
+197,KOL102,AIG - Health Insurance ,Salaried - MNC,51-60,"10,018",DUMRAC,KOL,D3,55,3,No Discount
+198,KOL103,Executive - Credit Card ,Salaried - Pvt Ltd ,21-30,"47,359",DUMRAC,KOL,D2,28,3,No Discount
+199,KOL104,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,41-50,"36,627",DUMRAC,KOL,D3,55,3,Discount
+200,KOL105,LIC,Self Employed,21-30,"108,197",ZARETH,KOL,Z7,42,5,No Discount
+201,KOL106,AIG - Health Insurance ,Self Employed,41-50,"54,559",BENYYZ,KOL,E1,38,4,No Discount
+202,KOL107,Current Account,Salaried - MNC,51-60,"121,953",BRUTEK,KOL,B2,37,3,Discount
+203,KOL108,Childrens Plan,NMC,gt 60,"118,484",CRACKF,KOL,C1,42,2,No Discount
+204,KOL109,LIC,Salaried - Pvt Ltd ,gt 60,"112,078",ZARETH,KOL,Z3,29,4,No Discount
+205,KOL110,LIC,Housewife,31-40,"134,656",ZARETH,KOL,Z6,57,2,Discount
+206,KOL111,Mutual Funds - TATA,Housewife,51-60,"133,789",ATTAGG,KOL,T5,32,1,Discount
+207,KOL112,Mutual Funds - Fidelity ,Self Employed,31-40,"77,704",ARTFIN,KOL,A7,24,2,Discount
+208,KOL113,Mutual Funds - Fidelity ,NMC,31-40,"101,304",BRUTEK,KOL,B3,35,5,Discount
+209,KOL114,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,51-60,"6,262",BENYYZ,KOL,E1,38,4,Discount
+210,KOL115,Mutual Funds - Fidelity ,Self Employed,41-50,"40,068",CRACKF,KOL,C3,45,4,No Discount
+211,KOL116,Mutual Funds - Fidelity ,NMC,31-40,"59,832",ATTAGG,KOL,T13,46,4,No Discount
+212,KOL117,AIG - Health Insurance ,Self Employed,51-60,"104,792",BENYYZ,KOL,E1,38,4,No Discount
+213,KOL118,Gold - Credit Card ,NMC,21-30,"39,621",ZARETH,KOL,Z6,57,2,No Discount
+214,KOL119,Current Account,NMC,41-50,"101,980",ZARETH,KOL,Z9,59,4,No Discount
+215,KOL120,Childrens Plan,Salaried - Pvt Ltd ,31-40,"84,094",ATTAGG,KOL,T5,32,1,Discount
+216,KOL121,Gold - Credit Card ,Salaried - Pvt Ltd ,21-30,"8,670",CRACKF,KOL,C2,37,2,Discount
+217,KOL122,Metlife - General Insurance ,Salaried - Pvt Ltd ,21-30,"54,320",ATTAGG,KOL,T5,32,1,Discount
+218,KOL123,Executive - Credit Card ,NMC,21-30,"43,184",ATTAGG,KOL,T13,46,4,No Discount
+219,KOL124,Classic Card ,Salaried - Pvt Ltd ,41-50,"82,276",CRACKF,KOL,C4,56,4,No Discount
+220,KOL125,LIC,Housewife,51-60,"133,797",ATTAGG,KOL,T2,43,5,Discount
+221,KOL126,Mutual Funds - Fidelity ,Self Employed,51-60,"70,670",ARTFIN,KOL,A6,47,2,Discount
+222,KOL127,Savings Account,Self Employed,51-60,"77,374",ARTFIN,KOL,A3,33,3,No Discount
+223,KOL128,LIC,NMC,gt 60,"44,354",ATTAGG,KOL,T1,49,5,No Discount
+224,KOL129,Mutual Funds - TATA,Self Employed,31-40,"43,149",ARTFIN,KOL,A2,38,2,Discount
+225,KOL130,Gold - Credit Card ,Salaried - Pvt Ltd ,41-50,"20,897",BENYYZ,KOL,E1,38,4,Discount
+226,KOL131,Classic Card ,NMC,21-30,"9,000",ARTFIN,KOL,A7,24,2,Discount
+227,KOL132,Mutual Funds - TATA,Self Employed,51-60,"46,422",DUMRAC,KOL,D1,28,5,No Discount
+228,KOL133,Classic Card ,NMC,51-60,"148,037",ATTAGG,KOL,T1,49,5,Discount
+229,KOL134,Current Account,Salaried - Pvt Ltd ,41-50,"15,393",ZARETH,KOL,Z4,22,1,Discount
+230,KOL135,Executive - Credit Card ,Salaried - Pvt Ltd ,21-30,"57,757",ZARETH,KOL,Z4,22,1,Discount
+231,KOL136,Classic Card ,Housewife,41-50,"53,443",ARTFIN,KOL,A6,47,2,No Discount
+232,KOL137,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,51-60,"39,217",CRACKF,KOL,C2,37,2,Discount
+233,KOL138,LIC,Self Employed,51-60,"89,184",BRUTEK,KOL,B5,22,3,No Discount
+234,KOL139,Childrens Plan,Housewife,31-40,"131,207",ATTAGG,KOL,T9,32,5,Discount
+235,KOL140,Metlife - General Insurance ,Housewife,gt 60,"147,598",CRACKF,KOL,C2,37,2,No Discount
+236,KOL141,Metlife - General Insurance ,Salaried - MNC,21-30,"49,919",CRACKF,KOL,C3,45,4,No Discount
+237,KOL142,Childrens Plan,NMC,21-30,"48,433",BRUTEK,KOL,B3,35,5,No Discount
+238,KOL143,Mutual Funds - TATA,Salaried - MNC,gt 60,"101,174",ARTFIN,KOL,A2,38,2,No Discount
+239,KOL144,LIC,Self Employed,31-40,"71,895",CRACKF,KOL,C2,37,2,Discount
+240,KOL145,Mutual Funds - Fidelity ,Self Employed,gt 60,"65,135",ARTFIN,KOL,A7,24,2,No Discount
+241,KOL146,Current Account,NMC,51-60,"34,164",CRACKF,KOL,C2,37,2,No Discount
+242,KOL147,Mutual Funds - Fidelity ,Housewife,51-60,"60,942",DUMRAC,KOL,D3,55,3,No Discount
+243,KOL148,Metlife - General Insurance ,Self Employed,41-50,"48,975",ATTAGG,KOL,T12,59,2,Discount
+244,KOL149,Childrens Plan,Salaried - MNC,41-50,"134,923",ZARETH,KOL,Z1,54,5,No Discount
+245,KOL150,Gold - Credit Card ,Housewife,51-60,"92,554",ARTFIN,KOL,A6,47,2,No Discount
+246,KOL151,Classic Card ,Salaried - Pvt Ltd ,51-60,"77,102",ATTAGG,KOL,T9,32,5,Discount
+247,KOL152,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,21-30,"94,521",ZARETH,KOL,Z2,39,3,No Discount
+248,KOL153,Childrens Plan,Self Employed,gt 60,"11,077",BENYYZ,KOL,E1,38,4,Discount
+249,KOL154,Childrens Plan,Housewife,41-50,"91,764",BRUTEK,KOL,B3,35,5,No Discount
+250,KOL155,LIC,NMC,21-30,"97,911",BRUTEK,KOL,B3,35,5,No Discount
+251,KOL156,Savings Account,Salaried - Pvt Ltd ,gt 60,"17,425",ZARETH,KOL,Z7,42,5,Discount
+252,KOL157,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,gt 60,"36,031",BENYYZ,KOL,E1,38,4,No Discount
+253,KOL158,Gold - Credit Card ,Housewife,41-50,"24,469",BENYYZ,KOL,E1,38,4,No Discount
+254,KOL159,AIG - Health Insurance ,Salaried - Pvt Ltd ,31-40,"140,389",DUMRAC,KOL,D1,28,5,No Discount
+255,KOL160,Mutual Funds - Fidelity ,Self Employed,31-40,"28,803",CRACKF,KOL,C3,45,4,Discount
+256,KOL161,Current Account,Salaried - Pvt Ltd ,31-40,"76,122",BRUTEK,KOL,B3,35,5,No Discount
+257,KOL162,Classic Card ,Self Employed,51-60,"81,174",ATTAGG,KOL,T1,49,5,No Discount
+258,KOL163,AIG - Health Insurance ,Housewife,31-40,"60,553",ATTAGG,KOL,T13,46,4,No Discount
+259,KOL164,LIC,Self Employed,31-40,"128,104",BENYYZ,KOL,E1,38,4,No Discount
+260,KOL165,Childrens Plan,NMC,31-40,"64,319",CRACKF,KOL,C4,56,4,Discount
+261,KOL166,Executive - Credit Card ,NMC,41-50,"131,279",DUMRAC,KOL,D1,28,5,No Discount
+262,KOL167,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,41-50,"139,544",DUMRAC,KOL,D3,55,3,Discount
+263,KOL168,Mutual Funds - Fidelity ,Salaried - MNC,gt 60,"66,631",BENYYZ,KOL,E1,38,4,Discount
+264,KOL169,Gold - Credit Card ,Housewife,21-30,"24,498",CRACKF,KOL,C1,42,2,No Discount
+265,KOL170,Executive - Credit Card ,Self Employed,gt 60,"115,261",ZARETH,KOL,Z8,38,5,Discount
+266,KOL171,Mutual Funds - Franklin Temploton,Housewife,gt 60,"103,149",BENYYZ,KOL,E1,38,4,Discount
+267,KOL172,Gold - Credit Card ,NMC,21-30,"128,992",DUMRAC,KOL,D1,28,5,No Discount
+268,KOL173,Savings Account,Self Employed,gt 60,"40,901",BRUTEK,KOL,B2,37,3,No Discount
+269,KOL174,Mutual Funds - TATA,Salaried - MNC,21-30,"29,166",BENYYZ,KOL,E1,38,4,Discount
+270,KOL175,Savings Account,Salaried - MNC,21-30,"111,258",ATTAGG,KOL,T5,32,1,Discount
+271,KOL176,Current Account,Salaried - MNC,31-40,"127,331",ARTFIN,KOL,A4,60,2,No Discount
+272,KOL177,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,31-40,"9,675",ARTFIN,KOL,A4,60,2,Discount
+273,KOL178,AIG - Health Insurance ,Self Employed,gt 60,"81,141",ATTAGG,KOL,T5,32,1,No Discount
+274,KOL179,Mutual Funds - Fidelity ,Housewife,31-40,"63,237",ARTFIN,KOL,A7,24,2,No Discount
+275,KOL180,Mutual Funds - Fidelity ,Housewife,21-30,"58,056",ATTAGG,KOL,T6,32,3,Discount
+276,KOL181,Metlife - General Insurance ,Salaried - MNC,51-60,"46,768",ZARETH,KOL,Z2,39,3,Discount
+277,KOL182,Mutual Funds - Fidelity ,Salaried - MNC,21-30,"36,280",ARTFIN,KOL,A7,24,2,Discount
+278,KOL183,Childrens Plan,NMC,41-50,"107,419",CRACKF,KOL,C4,56,4,No Discount
+279,KOL184,Mutual Funds - TATA,Self Employed,41-50,"95,410",CRACKF,KOL,C4,56,4,No Discount
+280,KOL185,Metlife - General Insurance ,NMC,21-30,"36,388",BRUTEK,KOL,B1,41,3,No Discount
+281,KOL186,Gold - Credit Card ,Salaried - Pvt Ltd ,21-30,"101,976",ARTFIN,KOL,A6,47,2,Discount
+282,KOL187,Savings Account,Salaried - Pvt Ltd ,41-50,"64,056",ATTAGG,KOL,T4,44,5,No Discount
+283,KOL188,LIC,Self Employed,41-50,"65,472",DUMRAC,KOL,D3,55,3,No Discount
+284,KOL189,Savings Account,NMC,51-60,"62,717",DUMRAC,KOL,D3,55,3,Discount
+285,KOL190,LIC,NMC,51-60,"89,099",ARTFIN,KOL,A4,60,2,Discount
+286,KOL191,Childrens Plan,Salaried - Pvt Ltd ,31-40,"29,634",BRUTEK,KOL,B6,58,1,No Discount
+287,KOL192,Classic Card ,Housewife,41-50,"81,955",BENYYZ,KOL,E1,38,4,Discount
+288,KOL193,Current Account,Salaried - Pvt Ltd ,41-50,"119,425",BENYYZ,KOL,E1,38,4,No Discount
+289,KOL194,Gold - Credit Card ,Salaried - MNC,gt 60,"130,122",ARTFIN,KOL,A3,33,3,Discount
+290,KOL195,Classic Card ,NMC,gt 60,"18,693",ARTFIN,KOL,A7,24,2,No Discount
+291,KOL196,Savings Account,Housewife,51-60,"73,308",DUMRAC,KOL,D2,28,3,No Discount
+292,KOL197,LIC,NMC,51-60,"117,685",BRUTEK,KOL,B1,41,3,No Discount
+293,KOL198,LIC,Salaried - Pvt Ltd ,51-60,"59,786",BENYYZ,KOL,E1,38,4,Discount
+294,KOL199,Childrens Plan,Self Employed,31-40,"26,684",BENYYZ,KOL,E1,38,4,No Discount
+295,KOL200,Mutual Funds - Franklin Temploton,Salaried - MNC,31-40,"27,142",ATTAGG,KOL,T6,32,3,Discount
+296,KOL201,Executive - Credit Card ,Salaried - Pvt Ltd ,31-40,"70,424",ARTFIN,KOL,A2,38,2,Discount
+297,KOL202,Mutual Funds - TATA,Housewife,gt 60,"16,872",BENYYZ,KOL,E1,38,4,No Discount
+298,KOL203,Mutual Funds - Franklin Temploton,NMC,31-40,"39,007",CRACKF,KOL,C2,37,2,No Discount
+299,KOL204,AIG - Health Insurance ,Salaried - MNC,51-60,"139,368",BENYYZ,KOL,E1,38,4,Discount
+300,KOL205,Metlife - General Insurance ,Self Employed,31-40,"50,708",DUMRAC,KOL,D1,28,5,No Discount
+301,KOL206,Classic Card ,Housewife,gt 60,"138,393",BRUTEK,KOL,B4,48,3,No Discount
+302,KOL207,Mutual Funds - Fidelity ,Housewife,31-40,"128,488",ZARETH,KOL,Z5,57,1,No Discount
+303,KOL208,Gold - Credit Card ,Salaried - Pvt Ltd ,41-50,"114,850",ATTAGG,KOL,T12,59,2,Discount
+304,KOL209,Mutual Funds - TATA,Salaried - MNC,41-50,"24,806",DUMRAC,KOL,D1,28,5,Discount
+305,KOL210,Gold - Credit Card ,Self Employed,21-30,"52,130",ZARETH,KOL,Z8,38,5,Discount
+306,KOL211,AIG - Health Insurance ,Salaried - MNC,gt 60,"94,669",DUMRAC,KOL,D2,28,3,No Discount
+307,KOL212,LIC,Salaried - Pvt Ltd ,gt 60,"74,970",BENYYZ,KOL,E1,38,4,No Discount
+308,KOL213,LIC,Self Employed,41-50,"55,022",BRUTEK,KOL,B4,48,3,Discount
+309,KOL214,Metlife - General Insurance ,NMC,31-40,"49,200",ATTAGG,KOL,T9,32,5,No Discount
+310,KOL215,Current Account,NMC,31-40,"112,214",ARTFIN,KOL,A2,38,2,Discount
+311,KOL216,LIC,Salaried - MNC,51-60,"81,728",ATTAGG,KOL,T5,32,1,Discount
+312,KOL217,Mutual Funds - TATA,NMC,31-40,"135,559",BRUTEK,KOL,B1,41,3,No Discount
+313,KOL218,Savings Account,Housewife,21-30,"145,774",DUMRAC,KOL,D2,28,3,No Discount
+314,KOL219,Classic Card ,Salaried - Pvt Ltd ,31-40,"9,951",ARTFIN,KOL,A2,38,2,No Discount
+315,KOL220,Mutual Funds - Fidelity ,Salaried - MNC,51-60,"103,353",ARTFIN,KOL,A2,38,2,No Discount
+316,KOL221,Classic Card ,Salaried - Pvt Ltd ,31-40,"85,094",ZARETH,KOL,Z10,58,1,Discount
+317,KOL222,Metlife - General Insurance ,NMC,51-60,"48,071",DUMRAC,KOL,D2,28,3,No Discount
+318,KOL223,Mutual Funds - TATA,Housewife,21-30,"39,730",BENYYZ,KOL,E1,38,4,No Discount
+319,KOL224,Current Account,Salaried - Pvt Ltd ,41-50,"149,045",ARTFIN,KOL,A3,33,3,Discount
+320,KOL225,Executive - Credit Card ,Housewife,21-30,"53,740",ZARETH,KOL,Z10,58,1,No Discount
+321,KOL226,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,41-50,"32,646",CRACKF,KOL,C2,37,2,Discount
+322,KOL227,Metlife - General Insurance ,NMC,21-30,"88,584",ZARETH,KOL,Z10,58,1,Discount
+323,KOL228,Executive - Credit Card ,Salaried - Pvt Ltd ,21-30,"120,937",BRUTEK,KOL,B2,37,3,No Discount
+324,KOL229,LIC,Salaried - Pvt Ltd ,51-60,"78,643",ZARETH,KOL,Z6,57,2,Discount
+325,KOL230,LIC,Salaried - Pvt Ltd ,51-60,"59,629",CRACKF,KOL,C3,45,4,Discount
+326,KOL231,Executive - Credit Card ,Salaried - Pvt Ltd ,51-60,"105,168",ZARETH,KOL,Z10,58,1,Discount
+327,KOL232,AIG - Health Insurance ,Salaried - MNC,21-30,"60,208",BENYYZ,KOL,E1,38,4,Discount
+328,KOL233,Childrens Plan,Salaried - Pvt Ltd ,gt 60,"73,199",BRUTEK,KOL,B1,41,3,No Discount
+329,KOL234,Mutual Funds - Fidelity ,Housewife,51-60,"50,551",ZARETH,KOL,Z10,58,1,Discount
+330,KOL235,Current Account,Housewife,31-40,"65,698",DUMRAC,KOL,D3,55,3,No Discount
+331,KOL236,Childrens Plan,Salaried - MNC,21-30,"96,060",ZARETH,KOL,Z8,38,5,Discount
+332,KOL237,Mutual Funds - TATA,Salaried - MNC,gt 60,"133,219",CRACKF,KOL,C4,56,4,No Discount
+333,KOL238,Childrens Plan,Salaried - MNC,51-60,"88,945",DUMRAC,KOL,D3,55,3,Discount
+334,KOL239,Metlife - General Insurance ,Salaried - MNC,gt 60,"87,086",ARTFIN,KOL,A4,60,2,No Discount
+335,KOL240,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,21-30,"82,451",ARTFIN,KOL,A3,33,3,Discount
+336,KOL241,Executive - Credit Card ,Salaried - Pvt Ltd ,41-50,"140,050",DUMRAC,KOL,D2,28,3,Discount
+337,KOL242,AIG - Health Insurance ,NMC,gt 60,"149,944",BENYYZ,KOL,E1,38,4,Discount
+338,KOL243,Mutual Funds - Franklin Temploton,Housewife,21-30,"72,206",ATTAGG,KOL,T10,42,5,Discount
+339,KOL244,Savings Account,Salaried - MNC,31-40,"22,122",BENYYZ,KOL,E1,38,4,No Discount
+340,KOL245,Mutual Funds - TATA,Salaried - Pvt Ltd ,gt 60,"125,751",ARTFIN,KOL,A7,24,2,No Discount
+341,KOL246,LIC,NMC,gt 60,"49,112",CRACKF,KOL,C1,42,2,Discount
+342,KOL247,LIC,Self Employed,51-60,"37,176",DUMRAC,KOL,D3,55,3,Discount
+343,KOL248,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,51-60,"116,295",BENYYZ,KOL,E1,38,4,Discount
+344,KOL249,Classic Card ,Self Employed,41-50,"141,569",ZARETH,KOL,Z1,54,5,Discount
+345,KOL250,Executive - Credit Card ,NMC,41-50,"7,553",CRACKF,KOL,C2,37,2,Discount
+346,KOL251,Savings Account,NMC,31-40,"6,847",ARTFIN,KOL,A4,60,2,No Discount
+347,KOL252,Metlife - General Insurance ,Housewife,31-40,"133,069",ATTAGG,KOL,T6,32,3,No Discount
+348,KOL253,Classic Card ,Salaried - Pvt Ltd ,gt 60,"88,356",BENYYZ,KOL,E1,38,4,No Discount
+349,KOL254,Metlife - General Insurance ,Salaried - Pvt Ltd ,31-40,"49,221",ARTFIN,KOL,A4,60,2,No Discount
+350,KOL255,Classic Card ,Salaried - Pvt Ltd ,31-40,"139,460",BENYYZ,KOL,E1,38,4,No Discount
+351,KOL256,Mutual Funds - TATA,Salaried - Pvt Ltd ,gt 60,"93,238",ARTFIN,KOL,A6,47,2,No Discount
+352,KOL257,LIC,Housewife,41-50,"123,531",BRUTEK,KOL,B2,37,3,No Discount
+353,KOL258,Childrens Plan,NMC,51-60,"69,981",BENYYZ,KOL,E1,38,4,No Discount
+354,KOL259,Savings Account,Housewife,31-40,"25,518",BRUTEK,KOL,B5,22,3,Discount
+355,KOL260,Savings Account,NMC,31-40,"131,293",CRACKF,KOL,C1,42,2,No Discount
+356,KOL261,Gold - Credit Card ,Self Employed,31-40,"63,855",ZARETH,KOL,Z2,39,3,No Discount
+357,KOL262,Gold - Credit Card ,Self Employed,41-50,"80,530",BENYYZ,KOL,E1,38,4,No Discount
+358,KOL263,Metlife - General Insurance ,Salaried - MNC,31-40,"145,501",BENYYZ,KOL,E1,38,4,No Discount
+359,KOL264,Gold - Credit Card ,Salaried - MNC,gt 60,"107,136",ZARETH,KOL,Z8,38,5,No Discount
+360,KOL265,Current Account,Self Employed,21-30,"86,434",CRACKF,KOL,C2,37,2,No Discount
+361,KOL266,Mutual Funds - Fidelity ,Salaried - MNC,51-60,"28,435",CRACKF,KOL,C2,37,2,No Discount
+362,KOL267,AIG - Health Insurance ,Salaried - MNC,51-60,"36,954",ZARETH,KOL,Z4,22,1,Discount
+363,KOL268,LIC,Salaried - Pvt Ltd ,31-40,"79,417",ZARETH,KOL,Z5,57,1,No Discount
+364,KOL269,Metlife - General Insurance ,NMC,31-40,"106,355",CRACKF,KOL,C1,42,2,No Discount
+365,KOL270,Gold - Credit Card ,Self Employed,21-30,"107,344",CRACKF,KOL,C1,42,2,No Discount
+366,KOL271,Metlife - General Insurance ,Salaried - Pvt Ltd ,31-40,"32,967",ATTAGG,KOL,T4,44,5,No Discount
+367,KOL272,Classic Card ,NMC,gt 60,"14,664",BRUTEK,KOL,B6,58,1,Discount
+368,KOL273,Gold - Credit Card ,Salaried - MNC,41-50,"55,146",BRUTEK,KOL,B3,35,5,Discount
+369,KOL274,Savings Account,Housewife,51-60,"135,180",ARTFIN,KOL,A5,40,2,Discount
+370,KOL275,Mutual Funds - TATA,Salaried - MNC,31-40,"102,103",DUMRAC,KOL,D2,28,3,Discount
+371,KOL276,Savings Account,Salaried - MNC,41-50,"51,279",BENYYZ,KOL,E1,38,4,No Discount
+372,KOL277,Metlife - General Insurance ,Self Employed,31-40,"53,090",BRUTEK,KOL,B3,35,5,Discount
+373,KOL278,Classic Card ,Salaried - MNC,41-50,"125,434",ARTFIN,KOL,A7,24,2,Discount
+374,KOL279,Metlife - General Insurance ,NMC,31-40,"125,328",CRACKF,KOL,C4,56,4,No Discount
+375,KOL280,Childrens Plan,Self Employed,21-30,"130,625",ARTFIN,KOL,A6,47,2,No Discount
+376,KOL281,Metlife - General Insurance ,NMC,41-50,"32,265",CRACKF,KOL,C3,45,4,Discount
+377,KOL282,AIG - Health Insurance ,Self Employed,41-50,"65,923",CRACKF,KOL,C1,42,2,Discount
+378,KOL283,Classic Card ,Self Employed,51-60,"11,948",BRUTEK,KOL,B2,37,3,No Discount
+379,KOL284,Childrens Plan,Housewife,41-50,"112,703",BENYYZ,KOL,E1,38,4,No Discount
+380,KOL285,Executive - Credit Card ,Self Employed,51-60,"94,081",ZARETH,KOL,Z8,38,5,No Discount
+381,KOL286,Executive - Credit Card ,Housewife,41-50,"27,015",ATTAGG,KOL,T8,27,5,No Discount
+382,KOL287,Metlife - General Insurance ,Housewife,51-60,"140,202",ARTFIN,KOL,A7,24,2,No Discount
+383,KOL288,Current Account,Housewife,51-60,"16,229",BRUTEK,KOL,B6,58,1,No Discount
+384,KOL289,Executive - Credit Card ,NMC,31-40,"90,965",ZARETH,KOL,Z10,58,1,No Discount
+385,KOL290,Mutual Funds - Franklin Temploton,Housewife,41-50,"39,279",ATTAGG,KOL,T2,43,5,Discount
+386,KOL291,Mutual Funds - Fidelity ,Housewife,41-50,"86,276",DUMRAC,KOL,D1,28,5,Discount
+387,KOL292,Metlife - General Insurance ,NMC,gt 60,"23,598",ATTAGG,KOL,T9,32,5,Discount
+388,KOL293,Childrens Plan,Salaried - Pvt Ltd ,41-50,"92,096",ARTFIN,KOL,A7,24,2,No Discount
+389,KOL294,Classic Card ,Housewife,gt 60,"78,102",DUMRAC,KOL,D2,28,3,Discount
+390,KOL295,Childrens Plan,Housewife,31-40,"47,339",BENYYZ,KOL,E1,38,4,No Discount
+391,KOL296,Executive - Credit Card ,Self Employed,51-60,"135,365",ATTAGG,KOL,T7,28,4,Discount
+392,KOL297,AIG - Health Insurance ,Salaried - Pvt Ltd ,31-40,"20,742",ATTAGG,KOL,T3,42,4,Discount
+393,KOL298,LIC,Salaried - Pvt Ltd ,41-50,"64,848",BRUTEK,KOL,B1,41,3,Discount
+394,KOL299,AIG - Health Insurance ,Housewife,31-40,"81,250",DUMRAC,KOL,D2,28,3,No Discount
+395,KOL300,Metlife - General Insurance ,NMC,41-50,"120,996",ARTFIN,KOL,A4,60,2,No Discount
+396,KOL301,Mutual Funds - Franklin Temploton,Salaried - MNC,gt 60,"28,670",BENYYZ,KOL,E1,38,4,No Discount
+397,KOL302,Classic Card ,Self Employed,21-30,"38,470",BRUTEK,KOL,B4,48,3,No Discount
+398,KOL303,Mutual Funds - Franklin Temploton,Salaried - MNC,31-40,"138,252",ARTFIN,KOL,A6,47,2,No Discount
+399,KOL304,Metlife - General Insurance ,Salaried - MNC,21-30,"139,816",CRACKF,KOL,C2,37,2,Discount
+400,KOL305,AIG - Health Insurance ,NMC,41-50,"83,120",DUMRAC,KOL,D1,28,5,Discount
+401,KOL306,Mutual Funds - Fidelity ,Salaried - MNC,31-40,"68,961",BENYYZ,KOL,E1,38,4,Discount
+402,KOL307,AIG - Health Insurance ,NMC,gt 60,"116,881",DUMRAC,KOL,D2,28,3,No Discount
+403,KOL308,Mutual Funds - Fidelity ,NMC,31-40,"60,270",ARTFIN,KOL,A3,33,3,Discount
+404,KOL309,Classic Card ,Self Employed,51-60,"38,924",CRACKF,KOL,C1,42,2,No Discount
+405,KOL310,Mutual Funds - TATA,NMC,21-30,"65,830",ARTFIN,KOL,A2,38,2,No Discount
+406,KOL311,Current Account,Housewife,gt 60,"59,771",BENYYZ,KOL,E1,38,4,Discount
+407,KOL312,Current Account,Salaried - MNC,21-30,"40,500",ARTFIN,KOL,A5,40,2,No Discount
+408,KOL313,LIC,Housewife,21-30,"77,211",ARTFIN,KOL,A2,38,2,Discount
+409,KOL314,Savings Account,Self Employed,21-30,"134,428",DUMRAC,KOL,D3,55,3,No Discount
+410,KOL315,Executive - Credit Card ,Self Employed,gt 60,"68,760",ZARETH,KOL,Z4,22,1,Discount
+411,KOL316,LIC,Self Employed,21-30,"123,913",ARTFIN,KOL,A7,24,2,No Discount
+412,KOL317,Childrens Plan,Salaried - Pvt Ltd ,51-60,"82,383",ATTAGG,KOL,T7,28,4,Discount
+413,KOL318,Current Account,Salaried - Pvt Ltd ,21-30,"127,098",BENYYZ,KOL,E1,38,4,Discount
+414,KOL319,Metlife - General Insurance ,Salaried - Pvt Ltd ,21-30,"126,975",ARTFIN,KOL,A2,38,2,No Discount
+415,KOL320,Classic Card ,NMC,gt 60,"42,511",BRUTEK,KOL,B1,41,3,No Discount
+416,KOL321,Metlife - General Insurance ,Housewife,gt 60,"58,898",ZARETH,KOL,Z8,38,5,No Discount
+417,KOL322,Gold - Credit Card ,Self Employed,31-40,"107,830",CRACKF,KOL,C4,56,4,Discount
+418,KOL323,Current Account,NMC,31-40,"16,833",DUMRAC,KOL,D1,28,5,Discount
+419,KOL324,Mutual Funds - Fidelity ,Salaried - MNC,gt 60,"100,979",BRUTEK,KOL,B5,22,3,Discount
+420,KOL325,Childrens Plan,Salaried - MNC,51-60,"147,694",DUMRAC,KOL,D2,28,3,No Discount
+421,CHE001,Classic Card ,Housewife,21-30,"160,365",BRUTEK,CHE,B1,41,3,Discount
+422,CHE002,Childrens Plan,Self Employed,51-60,"421,012",ARTFIN,CHE,A4,60,2,No Discount
+423,CHE003,Mutual Funds - Fidelity ,Self Employed,gt 60,"477,232",ATTAGG,CHE,T6,32,3,No Discount
+424,CHE004,Classic Card ,Housewife,gt 60,"312,576",ZARETH,CHE,Z3,29,4,No Discount
+425,CHE005,Mutual Funds - TATA,NMC,41-50,"133,350",DUMRAC,CHE,D3,55,3,Discount
+426,CHE006,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,51-60,"270,441",ATTAGG,CHE,T11,33,2,No Discount
+427,CHE007,Classic Card ,Self Employed,51-60,"461,787",BENYYZ,CHE,E1,38,4,No Discount
+428,CHE008,Current Account,Salaried - MNC,31-40,"237,563",ATTAGG,CHE,T11,33,2,No Discount
+429,CHE009,Mutual Funds - Fidelity ,Housewife,31-40,"377,414",DUMRAC,CHE,D3,55,3,Discount
+430,CHE010,Mutual Funds - Franklin Temploton,Housewife,41-50,"175,342",CRACKF,CHE,C3,45,4,No Discount
+431,CHE011,AIG - Health Insurance ,Salaried - MNC,gt 60,"392,728",BENYYZ,CHE,E1,38,4,Discount
+432,CHE012,Executive - Credit Card ,NMC,21-30,"368,174",ZARETH,CHE,Z2,39,3,No Discount
+433,CHE013,Savings Account,Salaried - Pvt Ltd ,51-60,"201,747",ARTFIN,CHE,A7,24,2,Discount
+434,CHE014,LIC,Self Employed,51-60,"168,038",ARTFIN,CHE,A5,40,2,Discount
+435,CHE015,Current Account,NMC,gt 60,"450,450",CRACKF,CHE,C2,37,2,No Discount
+436,CHE016,Metlife - General Insurance ,NMC,31-40,"371,331",ATTAGG,CHE,T10,42,5,No Discount
+437,CHE017,AIG - Health Insurance ,Housewife,gt 60,"202,885",BENYYZ,CHE,E1,38,4,Discount
+438,CHE018,Executive - Credit Card ,Salaried - Pvt Ltd ,gt 60,"345,883",CRACKF,CHE,C1,42,2,Discount
+439,CHE019,Mutual Funds - Fidelity ,NMC,21-30,"315,444",DUMRAC,CHE,D1,28,5,Discount
+440,CHE020,Gold - Credit Card ,Salaried - MNC,41-50,"120,321",ATTAGG,CHE,T7,28,4,Discount
+441,CHE021,Mutual Funds - TATA,Salaried - Pvt Ltd ,51-60,"302,674",BENYYZ,CHE,E1,38,4,No Discount
+442,CHE022,Savings Account,Salaried - Pvt Ltd ,41-50,"378,390",BENYYZ,CHE,E1,38,4,Discount
+443,CHE023,LIC,Self Employed,21-30,"215,254",ARTFIN,CHE,A4,60,2,Discount
+444,CHE024,AIG - Health Insurance ,Housewife,41-50,"344,921",BRUTEK,CHE,B1,41,3,Discount
+445,CHE025,Childrens Plan,Housewife,21-30,"227,103",BENYYZ,CHE,E1,38,4,No Discount
+446,CHE026,Classic Card ,Salaried - Pvt Ltd ,gt 60,"305,164",ATTAGG,CHE,T3,42,4,No Discount
+447,CHE027,AIG - Health Insurance ,Salaried - Pvt Ltd ,gt 60,"343,268",DUMRAC,CHE,D3,55,3,No Discount
+448,CHE028,Current Account,Salaried - MNC,41-50,"126,095",ATTAGG,CHE,T8,27,5,No Discount
+449,CHE029,AIG - Health Insurance ,NMC,31-40,"237,517",ARTFIN,CHE,A3,33,3,Discount
+450,CHE030,Savings Account,Housewife,gt 60,"338,166",BRUTEK,CHE,B6,58,1,No Discount
+451,CHE031,Classic Card ,Housewife,41-50,"105,596",BRUTEK,CHE,B2,37,3,No Discount
+452,CHE032,LIC,Salaried - Pvt Ltd ,21-30,"219,224",ARTFIN,CHE,A7,24,2,Discount
+453,CHE033,Current Account,NMC,31-40,"186,326",DUMRAC,CHE,D1,28,5,No Discount
+454,CHE034,Gold - Credit Card ,Salaried - MNC,41-50,"491,224",ATTAGG,CHE,T2,43,5,Discount
+455,CHE035,Mutual Funds - TATA,Salaried - MNC,51-60,"423,138",ZARETH,CHE,Z2,39,3,No Discount
+456,CHE036,Gold - Credit Card ,Housewife,31-40,"335,402",ATTAGG,CHE,T8,27,5,Discount
+457,CHE037,Mutual Funds - Fidelity ,NMC,31-40,"314,234",BRUTEK,CHE,B1,41,3,No Discount
+458,CHE038,Savings Account,Self Employed,gt 60,"210,264",DUMRAC,CHE,D2,28,3,No Discount
+459,CHE039,Childrens Plan,Salaried - Pvt Ltd ,gt 60,"397,322",CRACKF,CHE,C4,56,4,Discount
+460,CHE040,Current Account,Salaried - Pvt Ltd ,41-50,"458,052",DUMRAC,CHE,D2,28,3,Discount
+461,CHE041,Gold - Credit Card ,Self Employed,21-30,"422,508",BENYYZ,CHE,E1,38,4,Discount
+462,CHE042,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,51-60,"324,149",BRUTEK,CHE,B2,37,3,Discount
+463,CHE043,Childrens Plan,Self Employed,41-50,"330,871",BENYYZ,CHE,E1,38,4,Discount
+464,CHE044,Savings Account,Salaried - MNC,gt 60,"221,276",DUMRAC,CHE,D2,28,3,Discount
+465,CHE045,Gold - Credit Card ,Salaried - Pvt Ltd ,41-50,"147,502",ZARETH,CHE,Z1,54,5,Discount
+466,CHE046,Savings Account,Self Employed,51-60,"160,853",BENYYZ,CHE,E1,38,4,Discount
+467,CHE047,AIG - Health Insurance ,Self Employed,21-30,"494,963",DUMRAC,CHE,D2,28,3,No Discount
+468,CHE048,Metlife - General Insurance ,NMC,31-40,"233,702",ZARETH,CHE,Z10,58,1,Discount
+469,CHE049,Gold - Credit Card ,Self Employed,gt 60,"235,847",ARTFIN,CHE,A3,33,3,Discount
+470,CHE050,Metlife - General Insurance ,NMC,41-50,"467,672",ARTFIN,CHE,A4,60,2,Discount
+471,CHE051,Executive - Credit Card ,Salaried - MNC,21-30,"321,853",ZARETH,CHE,Z10,58,1,No Discount
+472,CHE052,Executive - Credit Card ,Self Employed,gt 60,"432,601",DUMRAC,CHE,D1,28,5,Discount
+473,CHE053,Classic Card ,Salaried - Pvt Ltd ,gt 60,"225,612",CRACKF,CHE,C3,45,4,No Discount
+474,CHE054,Executive - Credit Card ,Salaried - Pvt Ltd ,gt 60,"134,392",BENYYZ,CHE,E1,38,4,Discount
+475,CHE055,Executive - Credit Card ,Self Employed,21-30,"435,634",DUMRAC,CHE,D3,55,3,Discount
+476,CHE056,Mutual Funds - Fidelity ,Housewife,gt 60,"154,785",ZARETH,CHE,Z2,39,3,No Discount
+477,CHE057,Current Account,Self Employed,31-40,"177,678",BRUTEK,CHE,B1,41,3,No Discount
+478,CHE058,Classic Card ,NMC,51-60,"103,021",ARTFIN,CHE,A7,24,2,Discount
+479,CHE059,Executive - Credit Card ,Housewife,31-40,"266,458",ARTFIN,CHE,A2,38,2,No Discount
+480,CHE060,AIG - Health Insurance ,Salaried - MNC,41-50,"258,865",CRACKF,CHE,C3,45,4,No Discount
+481,CHE061,Classic Card ,NMC,41-50,"353,269",BRUTEK,CHE,B5,22,3,No Discount
+482,CHE062,Mutual Funds - TATA,Self Employed,41-50,"331,017",CRACKF,CHE,C1,42,2,No Discount
+483,CHE063,Savings Account,NMC,31-40,"215,757",CRACKF,CHE,C3,45,4,Discount
+484,CHE064,LIC,NMC,gt 60,"390,034",ZARETH,CHE,Z7,42,5,No Discount
+485,CHE065,AIG - Health Insurance ,Salaried - MNC,31-40,"414,381",BRUTEK,CHE,B6,58,1,No Discount
+486,CHE066,LIC,Salaried - Pvt Ltd ,41-50,"319,841",ARTFIN,CHE,A6,47,2,No Discount
+487,CHE067,Metlife - General Insurance ,Self Employed,31-40,"312,835",DUMRAC,CHE,D1,28,5,No Discount
+488,CHE068,Mutual Funds - Franklin Temploton,Housewife,31-40,"202,810",BRUTEK,CHE,B4,48,3,Discount
+489,CHE069,Executive - Credit Card ,Housewife,gt 60,"358,952",ZARETH,CHE,Z8,38,5,No Discount
+490,CHE070,Executive - Credit Card ,Salaried - Pvt Ltd ,gt 60,"120,310",DUMRAC,CHE,D1,28,5,No Discount
+491,CHE071,Classic Card ,Salaried - Pvt Ltd ,31-40,"139,965",DUMRAC,CHE,D2,28,3,Discount
+492,CHE072,AIG - Health Insurance ,Self Employed,gt 60,"296,886",ZARETH,CHE,Z10,58,1,No Discount
+493,CHE073,Gold - Credit Card ,Housewife,41-50,"376,862",BRUTEK,CHE,B2,37,3,No Discount
+494,CHE074,Mutual Funds - Fidelity ,Self Employed,31-40,"436,283",CRACKF,CHE,C2,37,2,Discount
+495,CHE075,Mutual Funds - TATA,NMC,51-60,"286,950",ARTFIN,CHE,A2,38,2,No Discount
+496,CHE076,Mutual Funds - TATA,Salaried - Pvt Ltd ,41-50,"105,849",ARTFIN,CHE,A2,38,2,No Discount
+497,CHE077,Current Account,Salaried - Pvt Ltd ,31-40,"235,075",ARTFIN,CHE,A7,24,2,Discount
+498,CHE078,LIC,Salaried - Pvt Ltd ,gt 60,"333,400",ATTAGG,CHE,T2,43,5,Discount
+499,CHE079,Savings Account,NMC,51-60,"328,598",ATTAGG,CHE,T2,43,5,Discount
+500,CHE080,Mutual Funds - TATA,Self Employed,51-60,"319,978",ATTAGG,CHE,T10,42,5,No Discount
+501,CHE081,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,gt 60,"490,949",BENYYZ,CHE,E1,38,4,Discount
+502,CHE082,Classic Card ,Housewife,31-40,"373,123",BENYYZ,CHE,E1,38,4,No Discount
+503,CHE083,AIG - Health Insurance ,Self Employed,gt 60,"498,237",BENYYZ,CHE,E1,38,4,Discount
+504,CHE084,AIG - Health Insurance ,Self Employed,21-30,"193,195",ARTFIN,CHE,A6,47,2,Discount
+505,CHE085,Gold - Credit Card ,NMC,31-40,"250,214",ARTFIN,CHE,A7,24,2,No Discount
+506,CHE086,Mutual Funds - Franklin Temploton,Self Employed,51-60,"106,881",BRUTEK,CHE,B4,48,3,Discount
+507,CHE087,Savings Account,NMC,41-50,"435,306",BENYYZ,CHE,E1,38,4,No Discount
+508,CHE088,Executive - Credit Card ,Salaried - MNC,21-30,"460,079",BRUTEK,CHE,B2,37,3,Discount
+509,CHE089,Mutual Funds - Franklin Temploton,Salaried - MNC,51-60,"290,143",BRUTEK,CHE,B3,35,5,No Discount
+510,CHE090,Mutual Funds - TATA,NMC,51-60,"425,633",ZARETH,CHE,Z2,39,3,Discount
+511,CHE091,LIC,Housewife,31-40,"241,975",BENYYZ,CHE,E1,38,4,No Discount
+512,CHE092,Mutual Funds - TATA,NMC,31-40,"313,721",ARTFIN,CHE,A6,47,2,No Discount
+513,CHE093,Current Account,Salaried - Pvt Ltd ,gt 60,"167,397",CRACKF,CHE,C1,42,2,No Discount
+514,CHE094,Mutual Funds - Fidelity ,Housewife,31-40,"308,996",ATTAGG,CHE,T7,28,4,Discount
+515,CHE095,Classic Card ,NMC,41-50,"162,492",ZARETH,CHE,Z2,39,3,No Discount
+516,CHE096,Mutual Funds - Fidelity ,Salaried - MNC,gt 60,"164,687",ARTFIN,CHE,A4,60,2,No Discount
+517,CHE097,Current Account,Housewife,gt 60,"376,050",BRUTEK,CHE,B2,37,3,Discount
+518,CHE098,AIG - Health Insurance ,NMC,31-40,"401,713",CRACKF,CHE,C4,56,4,No Discount
+519,CHE099,Executive - Credit Card ,Housewife,51-60,"395,353",BENYYZ,CHE,E1,38,4,Discount
+520,CHE100,Mutual Funds - Franklin Temploton,Self Employed,51-60,"130,951",ATTAGG,CHE,T5,32,1,Discount
+521,CHE101,Classic Card ,Salaried - Pvt Ltd ,41-50,"409,340",ZARETH,CHE,Z6,57,2,Discount
+522,CHE102,Classic Card ,Housewife,21-30,"332,262",ARTFIN,CHE,A3,33,3,Discount
+523,CHE103,Executive - Credit Card ,NMC,31-40,"456,777",BRUTEK,CHE,B3,35,5,Discount
+524,CHE104,AIG - Health Insurance ,NMC,31-40,"438,405",CRACKF,CHE,C4,56,4,Discount
+525,CHE105,AIG - Health Insurance ,NMC,gt 60,"454,574",BRUTEK,CHE,B5,22,3,No Discount
+526,CHE106,Savings Account,Self Employed,gt 60,"312,494",ATTAGG,CHE,T7,28,4,No Discount
+527,CHE107,Childrens Plan,Self Employed,51-60,"159,405",ZARETH,CHE,Z3,29,4,Discount
+528,CHE108,Executive - Credit Card ,NMC,41-50,"463,496",BENYYZ,CHE,E1,38,4,No Discount
+529,CHE109,Mutual Funds - Franklin Temploton,NMC,21-30,"266,654",DUMRAC,CHE,D1,28,5,No Discount
+530,CHE110,Childrens Plan,NMC,31-40,"470,267",ARTFIN,CHE,A7,24,2,No Discount
+531,CHE111,Executive - Credit Card ,Salaried - MNC,31-40,"378,289",CRACKF,CHE,C4,56,4,No Discount
+532,CHE112,Classic Card ,Housewife,21-30,"172,956",DUMRAC,CHE,D2,28,3,Discount
+533,CHE113,Classic Card ,Salaried - Pvt Ltd ,51-60,"420,012",CRACKF,CHE,C4,56,4,No Discount
+534,CHE114,Mutual Funds - Fidelity ,Salaried - MNC,51-60,"240,356",BRUTEK,CHE,B1,41,3,No Discount
+535,CHE115,Mutual Funds - TATA,Housewife,51-60,"448,731",DUMRAC,CHE,D2,28,3,Discount
+536,CHE116,Mutual Funds - TATA,NMC,51-60,"455,120",DUMRAC,CHE,D1,28,5,No Discount
+537,CHE117,Executive - Credit Card ,Salaried - MNC,31-40,"263,804",DUMRAC,CHE,D2,28,3,Discount
+538,CHE118,Executive - Credit Card ,Self Employed,51-60,"215,969",DUMRAC,CHE,D3,55,3,Discount
+539,CHE119,Mutual Funds - TATA,Salaried - MNC,21-30,"382,954",ARTFIN,CHE,A7,24,2,No Discount
+540,CHE120,AIG - Health Insurance ,Salaried - MNC,51-60,"432,524",ATTAGG,CHE,T9,32,5,Discount
+541,CHE121,Executive - Credit Card ,Self Employed,51-60,"407,445",BENYYZ,CHE,E1,38,4,No Discount
+542,CHE122,Mutual Funds - Fidelity ,NMC,51-60,"181,119",ZARETH,CHE,Z2,39,3,No Discount
+543,CHE123,Classic Card ,NMC,51-60,"313,253",CRACKF,CHE,C2,37,2,No Discount
+544,CHE124,Mutual Funds - Fidelity ,Salaried - MNC,51-60,"303,507",ATTAGG,CHE,T10,42,5,Discount
+545,CHE125,LIC,Self Employed,41-50,"284,365",DUMRAC,CHE,D1,28,5,No Discount
+546,CHE126,AIG - Health Insurance ,NMC,gt 60,"410,460",CRACKF,CHE,C1,42,2,No Discount
+547,CHE127,LIC,Salaried - MNC,41-50,"235,471",DUMRAC,CHE,D2,28,3,No Discount
+548,CHE128,LIC,Salaried - Pvt Ltd ,gt 60,"422,168",BRUTEK,CHE,B6,58,1,Discount
+549,CHE129,Childrens Plan,Housewife,21-30,"474,054",ATTAGG,CHE,T7,28,4,No Discount
+550,CHE130,Executive - Credit Card ,Self Employed,41-50,"200,705",BRUTEK,CHE,B4,48,3,Discount
+551,CHE131,Metlife - General Insurance ,Salaried - MNC,21-30,"300,509",ZARETH,CHE,Z6,57,2,No Discount
+552,CHE132,Childrens Plan,Self Employed,41-50,"341,025",BRUTEK,CHE,B3,35,5,No Discount
+553,CHE133,Classic Card ,NMC,gt 60,"473,008",BENYYZ,CHE,E1,38,4,Discount
+554,CHE134,Mutual Funds - Fidelity ,Salaried - MNC,gt 60,"262,014",BENYYZ,CHE,E1,38,4,No Discount
+555,CHE135,Mutual Funds - TATA,Housewife,41-50,"333,116",ZARETH,CHE,Z6,57,2,No Discount
+556,CHE136,Executive - Credit Card ,Housewife,gt 60,"187,801",ARTFIN,CHE,A3,33,3,Discount
+557,CHE137,Classic Card ,Salaried - Pvt Ltd ,41-50,"290,848",ATTAGG,CHE,T7,28,4,Discount
+558,CHE138,LIC,Housewife,gt 60,"153,011",ZARETH,CHE,Z9,59,4,Discount
+559,CHE139,AIG - Health Insurance ,Self Employed,31-40,"132,032",ATTAGG,CHE,T4,44,5,Discount
+560,CHE140,Savings Account,Housewife,gt 60,"192,108",ATTAGG,CHE,T6,32,3,No Discount
+561,CHE141,Metlife - General Insurance ,Salaried - MNC,31-40,"463,803",DUMRAC,CHE,D2,28,3,No Discount
+562,CHE142,Gold - Credit Card ,NMC,41-50,"497,407",ARTFIN,CHE,A3,33,3,No Discount
+563,CHE143,Gold - Credit Card ,Housewife,31-40,"254,750",ZARETH,CHE,Z10,58,1,Discount
+564,CHE144,Childrens Plan,NMC,21-30,"194,029",BRUTEK,CHE,B6,58,1,Discount
+565,CHE145,Mutual Funds - Fidelity ,Self Employed,41-50,"116,940",ARTFIN,CHE,A6,47,2,Discount
+566,CHE146,Childrens Plan,Salaried - MNC,gt 60,"314,677",CRACKF,CHE,C1,42,2,Discount
+567,CHE147,Mutual Funds - TATA,Salaried - MNC,51-60,"281,621",BRUTEK,CHE,B4,48,3,No Discount
+568,CHE148,Gold - Credit Card ,NMC,51-60,"325,589",ZARETH,CHE,Z8,38,5,Discount
+569,CHE149,Mutual Funds - Franklin Temploton,Self Employed,31-40,"333,322",CRACKF,CHE,C1,42,2,Discount
+570,CHE150,Metlife - General Insurance ,Housewife,21-30,"183,631",ZARETH,CHE,Z7,42,5,No Discount
+571,CHE151,Mutual Funds - TATA,NMC,21-30,"194,433",BRUTEK,CHE,B3,35,5,Discount
+572,CHE152,Metlife - General Insurance ,Salaried - Pvt Ltd ,31-40,"240,212",DUMRAC,CHE,D3,55,3,No Discount
+573,CHE153,AIG - Health Insurance ,Self Employed,31-40,"466,367",CRACKF,CHE,C3,45,4,No Discount
+574,CHE154,Savings Account,Self Employed,51-60,"289,078",CRACKF,CHE,C2,37,2,No Discount
+575,CHE155,Childrens Plan,Self Employed,41-50,"425,300",CRACKF,CHE,C1,42,2,No Discount
+576,CHE156,AIG - Health Insurance ,Self Employed,51-60,"133,112",ATTAGG,CHE,T6,32,3,No Discount
+577,CHE157,Executive - Credit Card ,Salaried - Pvt Ltd ,31-40,"193,252",ZARETH,CHE,Z6,57,2,Discount
+578,CHE158,AIG - Health Insurance ,Self Employed,31-40,"447,264",DUMRAC,CHE,D1,28,5,Discount
+579,CHE159,Current Account,Housewife,51-60,"417,389",ZARETH,CHE,Z3,29,4,Discount
+580,CHE160,Gold - Credit Card ,Self Employed,51-60,"121,028",ATTAGG,CHE,T7,28,4,No Discount
+581,CHE161,Executive - Credit Card ,Salaried - MNC,gt 60,"129,090",ARTFIN,CHE,A5,40,2,Discount
+582,CHE162,Current Account,Salaried - Pvt Ltd ,51-60,"113,369",BENYYZ,CHE,E1,38,4,No Discount
+583,CHE163,Metlife - General Insurance ,Salaried - MNC,41-50,"485,130",DUMRAC,CHE,D2,28,3,No Discount
+584,CHE164,Executive - Credit Card ,Salaried - MNC,41-50,"483,287",ZARETH,CHE,Z9,59,4,Discount
+585,CHE165,Childrens Plan,Housewife,51-60,"203,624",BRUTEK,CHE,B4,48,3,No Discount
+586,CHE166,Mutual Funds - Fidelity ,NMC,gt 60,"235,513",CRACKF,CHE,C2,37,2,Discount
+587,CHE167,Metlife - General Insurance ,Salaried - MNC,gt 60,"165,195",ATTAGG,CHE,T6,32,3,No Discount
+588,CHE168,Executive - Credit Card ,Housewife,41-50,"308,327",ARTFIN,CHE,A3,33,3,Discount
+589,CHE169,Current Account,Salaried - MNC,21-30,"332,916",ARTFIN,CHE,A3,33,3,Discount
+590,CHE170,Current Account,Housewife,31-40,"490,367",CRACKF,CHE,C3,45,4,Discount
+591,CHE171,Childrens Plan,Salaried - MNC,31-40,"364,258",BRUTEK,CHE,B3,35,5,Discount
+592,CHE172,Executive - Credit Card ,Salaried - MNC,41-50,"126,470",DUMRAC,CHE,D1,28,5,Discount
+593,CHE173,Mutual Funds - TATA,Housewife,gt 60,"432,859",ATTAGG,CHE,T4,44,5,No Discount
+594,CHE174,Classic Card ,Salaried - Pvt Ltd ,41-50,"491,133",ATTAGG,CHE,T5,32,1,No Discount
+595,CHE175,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,gt 60,"226,729",BENYYZ,CHE,E1,38,4,No Discount
+596,CHE176,AIG - Health Insurance ,Housewife,31-40,"441,752",ZARETH,CHE,Z8,38,5,Discount
+597,CHE177,AIG - Health Insurance ,Self Employed,gt 60,"339,058",DUMRAC,CHE,D3,55,3,No Discount
+598,CHE178,Metlife - General Insurance ,Housewife,gt 60,"118,339",ATTAGG,CHE,T9,32,5,Discount
+599,CHE179,AIG - Health Insurance ,Self Employed,41-50,"357,706",BRUTEK,CHE,B5,22,3,No Discount
+600,CHE180,Mutual Funds - Fidelity ,Self Employed,41-50,"257,216",ZARETH,CHE,Z2,39,3,No Discount
+601,CHE181,Savings Account,Housewife,41-50,"389,918",ZARETH,CHE,Z7,42,5,Discount
+602,CHE182,Current Account,Salaried - MNC,41-50,"286,472",BENYYZ,CHE,E1,38,4,No Discount
+603,CHE183,Gold - Credit Card ,Self Employed,21-30,"318,284",ZARETH,CHE,Z2,39,3,Discount
+604,CHE184,AIG - Health Insurance ,Self Employed,21-30,"200,384",BENYYZ,CHE,E1,38,4,No Discount
+605,CHE185,Mutual Funds - Fidelity ,Self Employed,41-50,"140,547",ATTAGG,CHE,T7,28,4,Discount
+606,CHE186,Classic Card ,NMC,41-50,"202,828",ARTFIN,CHE,A5,40,2,No Discount
+607,CHE187,Classic Card ,Salaried - Pvt Ltd ,gt 60,"178,850",DUMRAC,CHE,D2,28,3,No Discount
+608,CHE188,Childrens Plan,NMC,gt 60,"155,003",ARTFIN,CHE,A6,47,2,No Discount
+609,CHE189,Classic Card ,Salaried - Pvt Ltd ,gt 60,"285,463",BENYYZ,CHE,E1,38,4,Discount
+610,CHE190,Gold - Credit Card ,NMC,41-50,"338,115",BRUTEK,CHE,B1,41,3,No Discount
+611,CHE191,Current Account,Salaried - Pvt Ltd ,51-60,"397,288",ARTFIN,CHE,A7,24,2,Discount
+612,CHE192,Current Account,Self Employed,21-30,"327,781",BENYYZ,CHE,E1,38,4,Discount
+613,CHE193,Mutual Funds - Franklin Temploton,Self Employed,51-60,"300,481",ZARETH,CHE,Z2,39,3,Discount
+614,CHE194,Current Account,NMC,51-60,"262,633",ARTFIN,CHE,A6,47,2,Discount
+615,CHE195,Metlife - General Insurance ,NMC,51-60,"153,636",BENYYZ,CHE,E1,38,4,No Discount
+616,CHE196,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,gt 60,"360,548",DUMRAC,CHE,D2,28,3,No Discount
+617,CHE197,AIG - Health Insurance ,Salaried - Pvt Ltd ,gt 60,"301,336",DUMRAC,CHE,D3,55,3,Discount
+618,CHE198,Mutual Funds - TATA,NMC,31-40,"386,326",DUMRAC,CHE,D1,28,5,No Discount
+619,CHE199,Mutual Funds - Fidelity ,NMC,51-60,"410,074",BENYYZ,CHE,E1,38,4,Discount
+620,CHE200,Metlife - General Insurance ,Salaried - Pvt Ltd ,31-40,"396,915",ARTFIN,CHE,A7,24,2,Discount
+621,CHE201,Current Account,Self Employed,51-60,"226,520",ZARETH,CHE,Z6,57,2,No Discount
+622,CHE202,Mutual Funds - Fidelity ,NMC,41-50,"196,085",ATTAGG,CHE,T13,46,4,Discount
+623,CHE203,Executive - Credit Card ,Housewife,41-50,"132,323",CRACKF,CHE,C4,56,4,No Discount
+624,CHE204,Mutual Funds - TATA,NMC,41-50,"239,414",BENYYZ,CHE,E1,38,4,No Discount
+625,CHE205,LIC,Self Employed,51-60,"254,249",ATTAGG,CHE,T2,43,5,Discount
+626,CHE206,LIC,Self Employed,gt 60,"415,084",ARTFIN,CHE,A3,33,3,No Discount
+627,CHE207,Current Account,NMC,21-30,"336,568",CRACKF,CHE,C3,45,4,No Discount
+628,CHE208,LIC,Self Employed,31-40,"374,936",DUMRAC,CHE,D2,28,3,Discount
+629,CHE209,Current Account,Salaried - Pvt Ltd ,41-50,"389,389",DUMRAC,CHE,D2,28,3,Discount
+630,CHE210,Classic Card ,Salaried - Pvt Ltd ,21-30,"466,077",ARTFIN,CHE,A2,38,2,Discount
+631,CHE211,Metlife - General Insurance ,Housewife,gt 60,"361,490",BENYYZ,CHE,E1,38,4,Discount
+632,CHE212,Mutual Funds - TATA,Housewife,31-40,"419,559",ATTAGG,CHE,T11,33,2,Discount
+633,CHE213,Metlife - General Insurance ,Salaried - MNC,gt 60,"344,877",DUMRAC,CHE,D2,28,3,Discount
+634,CHE214,Metlife - General Insurance ,Housewife,41-50,"199,079",ARTFIN,CHE,A5,40,2,No Discount
+635,CHE215,Mutual Funds - Franklin Temploton,NMC,31-40,"152,845",BENYYZ,CHE,E1,38,4,Discount
+636,CHE216,Executive - Credit Card ,Housewife,41-50,"153,990",BRUTEK,CHE,B6,58,1,Discount
+637,CHE217,Mutual Funds - TATA,Salaried - Pvt Ltd ,51-60,"451,875",BRUTEK,CHE,B6,58,1,No Discount
+638,CHE218,Metlife - General Insurance ,Self Employed,gt 60,"410,291",BRUTEK,CHE,B4,48,3,Discount
+639,CHE219,Mutual Funds - TATA,Salaried - Pvt Ltd ,41-50,"168,420",ATTAGG,CHE,T12,59,2,Discount
+640,CHE220,AIG - Health Insurance ,Self Employed,41-50,"172,728",BENYYZ,CHE,E1,38,4,Discount
+641,CHE221,Current Account,NMC,31-40,"346,519",DUMRAC,CHE,D1,28,5,No Discount
+642,CHE222,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,21-30,"154,411",ARTFIN,CHE,A2,38,2,Discount
+643,CHE223,Executive - Credit Card ,Housewife,gt 60,"242,597",DUMRAC,CHE,D3,55,3,No Discount
+644,CHE224,Childrens Plan,Housewife,31-40,"193,081",ATTAGG,CHE,T6,32,3,No Discount
+645,CHE225,Mutual Funds - TATA,Self Employed,21-30,"499,168",DUMRAC,CHE,D2,28,3,No Discount
+646,CHE226,Gold - Credit Card ,Salaried - MNC,21-30,"164,092",DUMRAC,CHE,D1,28,5,Discount
+647,CHE227,Executive - Credit Card ,Self Employed,51-60,"400,213",BENYYZ,CHE,E1,38,4,Discount
+648,CHE228,Savings Account,NMC,41-50,"337,179",BRUTEK,CHE,B5,22,3,Discount
+649,CHE229,Executive - Credit Card ,Salaried - MNC,41-50,"119,763",BRUTEK,CHE,B1,41,3,Discount
+650,CHE230,Childrens Plan,Housewife,41-50,"406,084",BRUTEK,CHE,B2,37,3,Discount
+651,CHE231,LIC,Self Employed,gt 60,"344,409",ZARETH,CHE,Z10,58,1,No Discount
+652,CHE232,Executive - Credit Card ,Salaried - MNC,41-50,"367,419",ATTAGG,CHE,T1,49,5,Discount
+653,CHE233,Mutual Funds - TATA,NMC,31-40,"359,109",ATTAGG,CHE,T6,32,3,No Discount
+654,CHE234,LIC,NMC,gt 60,"268,384",ZARETH,CHE,Z2,39,3,Discount
+655,CHE235,Gold - Credit Card ,NMC,31-40,"397,248",BRUTEK,CHE,B5,22,3,Discount
+656,CHE236,Classic Card ,Salaried - Pvt Ltd ,gt 60,"388,127",BENYYZ,CHE,E1,38,4,Discount
+657,CHE237,AIG - Health Insurance ,Salaried - MNC,41-50,"396,162",BENYYZ,CHE,E1,38,4,No Discount
+658,CHE238,Metlife - General Insurance ,Salaried - Pvt Ltd ,41-50,"175,385",DUMRAC,CHE,D3,55,3,Discount
+659,CHE239,Mutual Funds - Franklin Temploton,Salaried - MNC,21-30,"376,292",DUMRAC,CHE,D2,28,3,No Discount
+660,CHE240,Mutual Funds - Fidelity ,NMC,51-60,"103,400",ARTFIN,CHE,A4,60,2,No Discount
+661,CHE241,Current Account,Housewife,gt 60,"396,440",ATTAGG,CHE,T2,43,5,No Discount
+662,CHE242,Mutual Funds - TATA,Salaried - Pvt Ltd ,51-60,"455,048",BRUTEK,CHE,B3,35,5,Discount
+663,CHE243,Childrens Plan,NMC,31-40,"360,955",ATTAGG,CHE,T8,27,5,No Discount
+664,CHE244,Classic Card ,NMC,41-50,"243,669",CRACKF,CHE,C3,45,4,No Discount
+665,CHE245,Savings Account,Salaried - Pvt Ltd ,31-40,"305,653",CRACKF,CHE,C4,56,4,Discount
+666,CHE246,Savings Account,Self Employed,31-40,"441,130",ARTFIN,CHE,A6,47,2,Discount
+667,CHE247,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,41-50,"277,106",DUMRAC,CHE,D2,28,3,Discount
+668,CHE248,Classic Card ,Self Employed,41-50,"354,100",BRUTEK,CHE,B6,58,1,Discount
+669,CHE249,Classic Card ,NMC,gt 60,"100,730",ZARETH,CHE,Z1,54,5,Discount
+670,CHE250,Childrens Plan,Self Employed,gt 60,"395,146",ATTAGG,CHE,T12,59,2,No Discount
+671,CHE251,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,51-60,"469,112",DUMRAC,CHE,D1,28,5,No Discount
+672,CHE252,Metlife - General Insurance ,Self Employed,51-60,"290,989",ATTAGG,CHE,T4,44,5,No Discount
+673,CHE253,Mutual Funds - TATA,NMC,21-30,"320,659",BENYYZ,CHE,E1,38,4,No Discount
+674,CHE254,Mutual Funds - TATA,Salaried - Pvt Ltd ,31-40,"228,951",DUMRAC,CHE,D2,28,3,Discount
+675,CHE255,Executive - Credit Card ,Housewife,41-50,"441,158",ATTAGG,CHE,T1,49,5,No Discount
+676,CHE256,Childrens Plan,Housewife,51-60,"159,601",BENYYZ,CHE,E1,38,4,No Discount
+677,CHE257,Childrens Plan,Salaried - Pvt Ltd ,51-60,"445,870",ZARETH,CHE,Z8,38,5,Discount
+678,CHE258,AIG - Health Insurance ,Self Employed,31-40,"169,590",ATTAGG,CHE,T5,32,1,No Discount
+679,CHE259,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,gt 60,"193,240",BRUTEK,CHE,B3,35,5,No Discount
+680,CHE260,Mutual Funds - TATA,NMC,gt 60,"113,584",ARTFIN,CHE,A5,40,2,Discount
+681,CHE261,Current Account,Housewife,31-40,"107,255",BRUTEK,CHE,B3,35,5,No Discount
+682,CHE262,Savings Account,Salaried - Pvt Ltd ,41-50,"265,892",BENYYZ,CHE,E1,38,4,Discount
+683,CHE263,Classic Card ,Salaried - MNC,41-50,"391,690",DUMRAC,CHE,D2,28,3,Discount
+684,CHE264,LIC,Self Employed,31-40,"463,936",ZARETH,CHE,Z1,54,5,Discount
+685,CHE265,Savings Account,Self Employed,51-60,"290,384",DUMRAC,CHE,D3,55,3,Discount
+686,CHE266,Mutual Funds - Franklin Temploton,NMC,31-40,"176,852",BRUTEK,CHE,B2,37,3,Discount
+687,CHE267,Savings Account,NMC,gt 60,"337,798",DUMRAC,CHE,D2,28,3,No Discount
+688,CHE268,Childrens Plan,Salaried - MNC,51-60,"394,987",DUMRAC,CHE,D2,28,3,Discount
+689,CHE269,Childrens Plan,Housewife,51-60,"445,092",BENYYZ,CHE,E1,38,4,No Discount
+690,CHE270,Mutual Funds - TATA,Housewife,gt 60,"301,578",ZARETH,CHE,Z8,38,5,No Discount
+691,CHE271,Savings Account,Self Employed,41-50,"347,908",ATTAGG,CHE,T1,49,5,No Discount
+692,CHE272,Metlife - General Insurance ,Salaried - MNC,41-50,"133,378",BENYYZ,CHE,E1,38,4,Discount
+693,CHE273,Childrens Plan,Salaried - MNC,21-30,"351,877",DUMRAC,CHE,D3,55,3,No Discount
+694,CHE274,Gold - Credit Card ,Salaried - Pvt Ltd ,31-40,"445,711",ARTFIN,CHE,A5,40,2,Discount
+695,CHE275,Classic Card ,Salaried - MNC,21-30,"327,363",ARTFIN,CHE,A3,33,3,Discount
+696,CHE276,Childrens Plan,Self Employed,41-50,"238,312",BRUTEK,CHE,B6,58,1,No Discount
+697,CHE277,AIG - Health Insurance ,Salaried - Pvt Ltd ,21-30,"401,178",DUMRAC,CHE,D1,28,5,Discount
+698,CHE278,Current Account,Salaried - MNC,21-30,"138,086",BRUTEK,CHE,B3,35,5,Discount
+699,CHE279,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,31-40,"100,899",BRUTEK,CHE,B6,58,1,No Discount
+700,CHE280,Mutual Funds - Fidelity ,Housewife,51-60,"386,977",ATTAGG,CHE,T9,32,5,Discount
+701,CHE281,Mutual Funds - Fidelity ,Self Employed,gt 60,"440,915",ARTFIN,CHE,A7,24,2,No Discount
+702,CHE282,Current Account,Self Employed,21-30,"335,517",BENYYZ,CHE,E1,38,4,No Discount
+703,CHE283,Current Account,Salaried - MNC,31-40,"489,333",DUMRAC,CHE,D1,28,5,Discount
+704,CHE284,LIC,Salaried - MNC,21-30,"497,097",BENYYZ,CHE,E1,38,4,No Discount
+705,CHE285,Mutual Funds - TATA,Salaried - MNC,21-30,"229,312",BENYYZ,CHE,E1,38,4,No Discount
+706,CHE286,Childrens Plan,Salaried - Pvt Ltd ,21-30,"199,335",BRUTEK,CHE,B2,37,3,No Discount
+707,CHE287,Mutual Funds - Fidelity ,Housewife,31-40,"115,830",BENYYZ,CHE,E1,38,4,Discount
+708,CHE288,Savings Account,Housewife,21-30,"163,552",BENYYZ,CHE,E1,38,4,No Discount
+709,CHE289,Mutual Funds - Fidelity ,Housewife,51-60,"499,719",ATTAGG,CHE,T13,46,4,No Discount
+710,CHE290,Gold - Credit Card ,Housewife,31-40,"123,620",CRACKF,CHE,C2,37,2,No Discount
+711,CHE291,Classic Card ,Salaried - Pvt Ltd ,51-60,"436,989",ZARETH,CHE,Z3,29,4,No Discount
+712,CHE292,Gold - Credit Card ,NMC,31-40,"482,056",BENYYZ,CHE,E1,38,4,Discount
+713,CHE293,Mutual Funds - TATA,Self Employed,31-40,"423,156",ZARETH,CHE,Z7,42,5,Discount
+714,CHE294,Childrens Plan,Salaried - Pvt Ltd ,31-40,"446,067",CRACKF,CHE,C4,56,4,Discount
+715,CHE295,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,51-60,"415,985",ZARETH,CHE,Z8,38,5,Discount
+716,CHE296,Gold - Credit Card ,Salaried - Pvt Ltd ,31-40,"433,527",BENYYZ,CHE,E1,38,4,No Discount
+717,CHE297,Savings Account,Housewife,51-60,"111,981",ARTFIN,CHE,A3,33,3,Discount
+718,CHE298,Savings Account,Housewife,31-40,"293,223",ZARETH,CHE,Z6,57,2,Discount
+719,CHE299,Childrens Plan,Self Employed,gt 60,"375,254",BENYYZ,CHE,E1,38,4,No Discount
+720,CHE300,LIC,Salaried - Pvt Ltd ,41-50,"261,414",BRUTEK,CHE,B1,41,3,No Discount
+721,CHE301,AIG - Health Insurance ,NMC,51-60,"211,319",CRACKF,CHE,C1,42,2,Discount
+722,CHE302,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,31-40,"242,907",ARTFIN,CHE,A6,47,2,Discount
+723,CHE303,Savings Account,Salaried - MNC,gt 60,"116,314",CRACKF,CHE,C2,37,2,No Discount
+724,CHE304,Mutual Funds - TATA,Salaried - Pvt Ltd ,51-60,"139,184",BENYYZ,CHE,E1,38,4,Discount
+725,CHE305,Gold - Credit Card ,Salaried - Pvt Ltd ,gt 60,"489,664",ARTFIN,CHE,A7,24,2,No Discount
+726,CHE306,Gold - Credit Card ,Salaried - MNC,gt 60,"324,689",ATTAGG,CHE,T6,32,3,No Discount
+727,CHE307,Executive - Credit Card ,Housewife,gt 60,"184,951",ARTFIN,CHE,A6,47,2,Discount
+728,CHE308,Metlife - General Insurance ,Self Employed,21-30,"195,451",ATTAGG,CHE,T1,49,5,Discount
+729,CHE309,Savings Account,Housewife,gt 60,"244,970",ATTAGG,CHE,T1,49,5,Discount
+730,CHE310,Savings Account,Housewife,21-30,"392,991",ATTAGG,CHE,T5,32,1,Discount
+731,CHE311,Classic Card ,Self Employed,51-60,"401,526",CRACKF,CHE,C4,56,4,Discount
+732,CHE312,Metlife - General Insurance ,Salaried - Pvt Ltd ,41-50,"102,130",BENYYZ,CHE,E1,38,4,Discount
+733,CHE313,Savings Account,Salaried - Pvt Ltd ,51-60,"498,120",BENYYZ,CHE,E1,38,4,Discount
+734,AHD001,Mutual Funds - Fidelity ,NMC,21-30,"12,070",DUMRAC,AHD,D2,28,3,Discount
+735,AHD002,Mutual Funds - TATA,Salaried - Pvt Ltd ,gt 60,"6,238",ARTFIN,AHD,A6,47,2,Discount
+736,AHD003,AIG - Health Insurance ,Salaried - MNC,21-30,"6,282",ZARETH,AHD,Z3,29,4,No Discount
+737,AHD004,Savings Account,Salaried - Pvt Ltd ,31-40,"6,893",ATTAGG,AHD,T8,27,5,Discount
+738,AHD005,LIC,Salaried - MNC,gt 60,"9,000",ZARETH,AHD,Z9,59,4,Discount
+739,AHD006,Executive - Credit Card ,Salaried - MNC,51-60,"7,832",ARTFIN,AHD,A6,47,2,No Discount
+740,AHD007,LIC,Salaried - Pvt Ltd ,21-30,"7,858",ATTAGG,AHD,T13,46,4,No Discount
+741,AHD008,Mutual Funds - Fidelity ,NMC,21-30,"12,240",ARTFIN,AHD,A4,60,2,Discount
+742,AHD009,Mutual Funds - Fidelity ,Housewife,31-40,"8,370",ATTAGG,AHD,T2,43,5,No Discount
+743,AHD010,Classic Card ,Housewife,21-30,"5,855",BRUTEK,AHD,B6,58,1,No Discount
+744,AHD011,Metlife - General Insurance ,Self Employed,gt 60,"5,113",ARTFIN,AHD,A4,60,2,Discount
+745,AHD012,LIC,Housewife,51-60,"7,166",BRUTEK,AHD,B3,35,5,No Discount
+746,AHD013,Mutual Funds - TATA,Housewife,gt 60,"12,288",ZARETH,AHD,Z10,58,1,Discount
+747,AHD014,Classic Card ,Salaried - Pvt Ltd ,21-30,"14,053",DUMRAC,AHD,D3,55,3,Discount
+748,AHD015,Savings Account,NMC,41-50,"9,681",BRUTEK,AHD,B1,41,3,No Discount
+749,AHD016,AIG - Health Insurance ,Salaried - Pvt Ltd ,31-40,"12,396",ATTAGG,AHD,T1,49,5,Discount
+750,AHD017,Executive - Credit Card ,Housewife,gt 60,"7,749",CRACKF,AHD,C1,42,2,No Discount
+751,AHD018,Mutual Funds - Franklin Temploton,Housewife,gt 60,"5,633",DUMRAC,AHD,D3,55,3,No Discount
+752,AHD019,Childrens Plan,Housewife,51-60,"6,431",DUMRAC,AHD,D3,55,3,No Discount
+753,AHD020,Mutual Funds - Franklin Temploton,Salaried - MNC,21-30,"13,950",CRACKF,AHD,C2,37,2,Discount
+754,AHD021,Savings Account,Salaried - MNC,41-50,"9,798",BRUTEK,AHD,B1,41,3,Discount
+755,AHD022,LIC,Salaried - MNC,41-50,"11,442",ARTFIN,AHD,A4,60,2,Discount
+756,AHD023,AIG - Health Insurance ,NMC,51-60,"8,283",BENYYZ,AHD,E1,38,4,Discount
+757,AHD024,Executive - Credit Card ,Salaried - MNC,gt 60,"11,272",BRUTEK,AHD,B2,37,3,Discount
+758,AHD025,Classic Card ,Self Employed,21-30,"5,577",ZARETH,AHD,Z2,39,3,No Discount
+759,AHD026,Metlife - General Insurance ,Salaried - MNC,51-60,"12,964",BRUTEK,AHD,B5,22,3,No Discount
+760,AHD027,Mutual Funds - Fidelity ,Housewife,gt 60,"12,282",ARTFIN,AHD,A5,40,2,Discount
+761,AHD028,Gold - Credit Card ,NMC,41-50,"8,686",ZARETH,AHD,Z8,38,5,Discount
+762,AHD029,Current Account,NMC,41-50,"10,916",BENYYZ,AHD,E1,38,4,Discount
+763,AHD030,Metlife - General Insurance ,Self Employed,31-40,"5,606",BENYYZ,AHD,E1,38,4,Discount
+764,AHD031,Metlife - General Insurance ,Salaried - MNC,31-40,"10,766",ZARETH,AHD,Z5,57,1,No Discount
+765,AHD032,Current Account,Salaried - Pvt Ltd ,41-50,"8,644",CRACKF,AHD,C2,37,2,No Discount
+766,AHD033,Metlife - General Insurance ,Housewife,51-60,"14,536",ARTFIN,AHD,A5,40,2,No Discount
+767,AHD034,Current Account,Salaried - MNC,21-30,"14,527",ATTAGG,AHD,T10,42,5,Discount
+768,AHD035,Gold - Credit Card ,NMC,gt 60,"14,313",CRACKF,AHD,C2,37,2,Discount
+769,AHD036,Mutual Funds - TATA,NMC,51-60,"5,846",BENYYZ,AHD,E1,38,4,Discount
+770,AHD037,Mutual Funds - TATA,Housewife,51-60,"5,024",ZARETH,AHD,Z4,22,1,No Discount
+771,AHD038,Classic Card ,Self Employed,21-30,"11,293",DUMRAC,AHD,D3,55,3,No Discount
+772,AHD039,Executive - Credit Card ,NMC,gt 60,"12,603",BRUTEK,AHD,B2,37,3,Discount
+773,AHD040,Executive - Credit Card ,Housewife,gt 60,"12,312",ARTFIN,AHD,A4,60,2,Discount
+774,AHD041,Gold - Credit Card ,Self Employed,gt 60,"10,705",DUMRAC,AHD,D1,28,5,No Discount
+775,AHD042,Executive - Credit Card ,Self Employed,31-40,"8,456",BRUTEK,AHD,B5,22,3,No Discount
+776,AHD043,Current Account,NMC,31-40,"14,714",BRUTEK,AHD,B3,35,5,No Discount
+777,AHD044,LIC,Self Employed,51-60,"12,460",DUMRAC,AHD,D3,55,3,No Discount
+778,AHD045,Childrens Plan,NMC,21-30,"10,173",CRACKF,AHD,C4,56,4,No Discount
+779,AHD046,Executive - Credit Card ,Salaried - Pvt Ltd ,41-50,"13,848",ZARETH,AHD,Z1,54,5,No Discount
+780,AHD047,Gold - Credit Card ,Salaried - MNC,41-50,"12,803",CRACKF,AHD,C2,37,2,No Discount
+781,AHD048,AIG - Health Insurance ,Salaried - MNC,41-50,"8,654",ARTFIN,AHD,A4,60,2,No Discount
+782,AHD049,AIG - Health Insurance ,NMC,21-30,"8,822",BENYYZ,AHD,E1,38,4,Discount
+783,AHD050,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,21-30,"12,296",ZARETH,AHD,Z5,57,1,Discount
+784,AHD051,Classic Card ,Self Employed,51-60,"6,137",ATTAGG,AHD,T7,28,4,Discount
+785,AHD052,Savings Account,NMC,41-50,"7,223",ARTFIN,AHD,A2,38,2,No Discount
+786,AHD053,Classic Card ,NMC,41-50,"5,408",BRUTEK,AHD,B5,22,3,Discount
+787,AHD054,Childrens Plan,Housewife,51-60,"10,841",BRUTEK,AHD,B2,37,3,No Discount
+788,AHD055,Classic Card ,Self Employed,31-40,"13,414",ATTAGG,AHD,T4,44,5,Discount
+789,AHD056,Classic Card ,Housewife,21-30,"9,901",ZARETH,AHD,Z4,22,1,No Discount
+790,AHD057,Mutual Funds - Franklin Temploton,Housewife,gt 60,"5,624",BENYYZ,AHD,E1,38,4,No Discount
+791,AHD058,Mutual Funds - TATA,Salaried - Pvt Ltd ,21-30,"11,139",BRUTEK,AHD,B5,22,3,Discount
+792,AHD059,Classic Card ,NMC,21-30,"9,038",CRACKF,AHD,C3,45,4,No Discount
+793,AHD060,AIG - Health Insurance ,Housewife,51-60,"6,936",ZARETH,AHD,Z5,57,1,Discount
+794,AHD061,Metlife - General Insurance ,Self Employed,41-50,"12,207",BRUTEK,AHD,B1,41,3,No Discount
+795,AHD062,Mutual Funds - Franklin Temploton,Housewife,41-50,"5,040",ATTAGG,AHD,T3,42,4,No Discount
+796,AHD063,Savings Account,Self Employed,31-40,"11,402",CRACKF,AHD,C4,56,4,No Discount
+797,AHD064,Mutual Funds - TATA,Salaried - Pvt Ltd ,41-50,"8,966",BRUTEK,AHD,B3,35,5,No Discount
+798,DEL001,Classic Card ,Salaried - MNC,31-40,"475,557",BRUTEK,DEL,B2,37,3,Discount
+799,DEL002,Savings Account,Self Employed,gt 60,"165,284",ARTFIN,DEL,A4,60,2,No Discount
+800,DEL003,Mutual Funds - Fidelity ,Self Employed,51-60,"140,037",BRUTEK,DEL,B4,48,3,No Discount
+801,DEL004,LIC,NMC,41-50,"499,651",DUMRAC,DEL,D1,28,5,Discount
+802,DEL005,Mutual Funds - TATA,Salaried - Pvt Ltd ,51-60,"240,399",BRUTEK,DEL,B6,58,1,Discount
+803,DEL006,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,31-40,"287,307",ZARETH,DEL,Z6,57,2,Discount
+804,DEL007,Current Account,Housewife,41-50,"149,460",BENYYZ,DEL,E1,38,4,Discount
+805,DEL008,Metlife - General Insurance ,Salaried - Pvt Ltd ,41-50,"296,267",BENYYZ,DEL,E1,38,4,Discount
+806,DEL009,LIC,Salaried - MNC,31-40,"180,021",ZARETH,DEL,Z10,58,1,No Discount
+807,DEL010,Gold - Credit Card ,Self Employed,gt 60,"480,226",CRACKF,DEL,C2,37,2,Discount
+808,DEL011,Classic Card ,Housewife,31-40,"370,363",CRACKF,DEL,C4,56,4,No Discount
+809,DEL012,AIG - Health Insurance ,Self Employed,41-50,"45,993",CRACKF,DEL,C3,45,4,Discount
+810,DEL013,Classic Card ,Self Employed,31-40,"74,573",BENYYZ,DEL,E1,38,4,No Discount
+811,DEL014,AIG - Health Insurance ,Self Employed,31-40,"266,348",ARTFIN,DEL,A5,40,2,Discount
+812,DEL015,Current Account,Housewife,41-50,"280,177",DUMRAC,DEL,D1,28,5,No Discount
+813,DEL016,Mutual Funds - Fidelity ,Housewife,51-60,"304,041",CRACKF,DEL,C1,42,2,Discount
+814,DEL017,LIC,Salaried - Pvt Ltd ,31-40,"20,870",ATTAGG,DEL,T10,42,5,Discount
+815,DEL018,Metlife - General Insurance ,Housewife,21-30,"354,991",BRUTEK,DEL,B3,35,5,No Discount
+816,DEL019,LIC,Self Employed,31-40,"154,536",BENYYZ,DEL,E1,38,4,No Discount
+817,DEL020,Childrens Plan,Salaried - MNC,21-30,"489,085",CRACKF,DEL,C1,42,2,Discount
+818,DEL021,Executive - Credit Card ,Salaried - MNC,51-60,"395,050",ARTFIN,DEL,A2,38,2,No Discount
+819,DEL022,LIC,NMC,21-30,"454,881",ZARETH,DEL,Z2,39,3,Discount
+820,DEL023,Gold - Credit Card ,Housewife,gt 60,"344,635",ATTAGG,DEL,T8,27,5,No Discount
+821,DEL024,Current Account,Salaried - MNC,21-30,"45,852",BRUTEK,DEL,B3,35,5,No Discount
+822,DEL025,Current Account,Housewife,21-30,"417,253",BENYYZ,DEL,E1,38,4,No Discount
+823,DEL026,Executive - Credit Card ,Housewife,31-40,"495,517",ATTAGG,DEL,T9,32,5,Discount
+824,DEL027,Executive - Credit Card ,NMC,41-50,"236,842",ARTFIN,DEL,A6,47,2,No Discount
+825,DEL028,LIC,Salaried - MNC,41-50,"112,270",BENYYZ,DEL,E1,38,4,No Discount
+826,DEL029,LIC,Salaried - MNC,gt 60,"53,541",CRACKF,DEL,C3,45,4,No Discount
+827,DEL030,Executive - Credit Card ,Salaried - MNC,gt 60,"131,854",BRUTEK,DEL,B1,41,3,Discount
+828,DEL031,Metlife - General Insurance ,Salaried - Pvt Ltd ,21-30,"17,851",DUMRAC,DEL,D1,28,5,No Discount
+829,DEL032,AIG - Health Insurance ,Housewife,gt 60,"288,539",ZARETH,DEL,Z2,39,3,No Discount
+830,DEL033,Classic Card ,NMC,gt 60,"417,284",BRUTEK,DEL,B1,41,3,No Discount
+831,DEL034,Childrens Plan,Housewife,31-40,"487,054",DUMRAC,DEL,D2,28,3,Discount
+832,DEL035,Mutual Funds - Franklin Temploton,NMC,51-60,"165,233",ARTFIN,DEL,A7,24,2,Discount
+833,DEL036,AIG - Health Insurance ,NMC,21-30,"210,122",ZARETH,DEL,Z1,54,5,No Discount
+834,DEL037,AIG - Health Insurance ,NMC,21-30,"469,310",ZARETH,DEL,Z7,42,5,No Discount
+835,DEL038,AIG - Health Insurance ,Self Employed,41-50,"346,622",ARTFIN,DEL,A7,24,2,No Discount
+836,DEL039,LIC,Salaried - Pvt Ltd ,51-60,"484,000",ZARETH,DEL,Z8,38,5,No Discount
+837,DEL040,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,41-50,"496,316",DUMRAC,DEL,D3,55,3,Discount
+838,DEL041,Classic Card ,Salaried - MNC,21-30,"17,522",CRACKF,DEL,C2,37,2,Discount
+839,DEL042,Mutual Funds - Fidelity ,NMC,31-40,"370,226",ZARETH,DEL,Z9,59,4,Discount
+840,DEL043,Savings Account,Housewife,41-50,"195,555",DUMRAC,DEL,D2,28,3,Discount
+841,DEL044,Current Account,Housewife,41-50,"260,921",BENYYZ,DEL,E1,38,4,No Discount
+842,DEL045,Current Account,Salaried - Pvt Ltd ,31-40,"344,244",BENYYZ,DEL,E1,38,4,Discount
+843,DEL046,Mutual Funds - Fidelity ,Salaried - MNC,51-60,"23,852",ARTFIN,DEL,A2,38,2,No Discount
+844,DEL047,Mutual Funds - Franklin Temploton,NMC,gt 60,"373,000",ARTFIN,DEL,A4,60,2,Discount
+845,DEL048,Mutual Funds - Franklin Temploton,Salaried - MNC,31-40,"403,606",CRACKF,DEL,C1,42,2,No Discount
+846,DEL049,AIG - Health Insurance ,Salaried - Pvt Ltd ,51-60,"454,735",DUMRAC,DEL,D1,28,5,Discount
+847,DEL050,Gold - Credit Card ,Salaried - MNC,51-60,"451,616",ZARETH,DEL,Z5,57,1,No Discount
+848,DEL051,Savings Account,NMC,51-60,"398,441",ARTFIN,DEL,A6,47,2,No Discount
+849,DEL052,AIG - Health Insurance ,Salaried - Pvt Ltd ,31-40,"22,917",ATTAGG,DEL,T12,59,2,Discount
+850,DEL053,Savings Account,Salaried - Pvt Ltd ,31-40,"287,213",ATTAGG,DEL,T10,42,5,No Discount
+851,DEL054,Mutual Funds - Franklin Temploton,Self Employed,41-50,"459,439",ATTAGG,DEL,T5,32,1,No Discount
+852,DEL055,Childrens Plan,Salaried - MNC,51-60,"144,224",ATTAGG,DEL,T13,46,4,No Discount
+853,DEL056,Classic Card ,NMC,41-50,"184,076",ATTAGG,DEL,T6,32,3,Discount
+854,DEL057,Executive - Credit Card ,Salaried - Pvt Ltd ,gt 60,"490,436",BRUTEK,DEL,B6,58,1,Discount
+855,DEL058,LIC,Salaried - Pvt Ltd ,gt 60,"132,006",BENYYZ,DEL,E1,38,4,Discount
+856,DEL059,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,41-50,"236,948",ARTFIN,DEL,A3,33,3,Discount
+857,DEL060,Classic Card ,Housewife,41-50,"15,389",ARTFIN,DEL,A3,33,3,Discount
+858,DEL061,Mutual Funds - Fidelity ,NMC,gt 60,"235,532",ZARETH,DEL,Z10,58,1,Discount
+859,DEL062,LIC,Salaried - MNC,31-40,"246,610",DUMRAC,DEL,D1,28,5,No Discount
+860,DEL063,AIG - Health Insurance ,Salaried - Pvt Ltd ,31-40,"172,734",DUMRAC,DEL,D2,28,3,No Discount
+861,DEL064,AIG - Health Insurance ,Salaried - Pvt Ltd ,21-30,"414,413",BENYYZ,DEL,E1,38,4,No Discount
+862,DEL065,Current Account,Salaried - MNC,gt 60,"259,725",BRUTEK,DEL,B1,41,3,No Discount
+863,DEL066,Gold - Credit Card ,Salaried - Pvt Ltd ,51-60,"100,981",BRUTEK,DEL,B1,41,3,Discount
+864,DEL067,Current Account,Salaried - Pvt Ltd ,21-30,"68,174",ZARETH,DEL,Z9,59,4,No Discount
+865,DEL068,Metlife - General Insurance ,Self Employed,31-40,"161,145",BRUTEK,DEL,B4,48,3,Discount
+866,DEL069,Gold - Credit Card ,NMC,41-50,"53,467",BENYYZ,DEL,E1,38,4,No Discount
+867,DEL070,Classic Card ,Housewife,41-50,"274,974",ZARETH,DEL,Z7,42,5,No Discount
+868,DEL071,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,31-40,"65,611",ZARETH,DEL,Z10,58,1,Discount
+869,DEL072,Current Account,Salaried - MNC,41-50,"200,557",CRACKF,DEL,C1,42,2,No Discount
+870,DEL073,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,21-30,"448,870",DUMRAC,DEL,D2,28,3,No Discount
+871,DEL074,Metlife - General Insurance ,Housewife,51-60,"349,563",ZARETH,DEL,Z8,38,5,No Discount
+872,DEL075,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,41-50,"201,705",CRACKF,DEL,C3,45,4,No Discount
+873,DEL076,Gold - Credit Card ,Self Employed,21-30,"460,519",DUMRAC,DEL,D3,55,3,No Discount
+874,DEL077,Current Account,Housewife,41-50,"148,196",CRACKF,DEL,C3,45,4,Discount
+875,DEL078,Savings Account,Self Employed,gt 60,"293,861",ARTFIN,DEL,A4,60,2,Discount
+876,DEL079,Executive - Credit Card ,Salaried - MNC,51-60,"175,413",ARTFIN,DEL,A4,60,2,No Discount
+877,DEL080,Mutual Funds - Fidelity ,Self Employed,31-40,"329,969",ZARETH,DEL,Z6,57,2,Discount
+878,DEL081,Executive - Credit Card ,NMC,51-60,"442,256",BENYYZ,DEL,E1,38,4,Discount
+879,DEL082,Classic Card ,Salaried - Pvt Ltd ,21-30,"433,341",ATTAGG,DEL,T12,59,2,Discount
+880,DEL083,Classic Card ,Salaried - MNC,41-50,"220,296",BRUTEK,DEL,B1,41,3,No Discount
+881,DEL084,AIG - Health Insurance ,Salaried - MNC,gt 60,"355,689",ZARETH,DEL,Z4,22,1,Discount
+882,DEL085,Mutual Funds - TATA,Housewife,31-40,"257,144",ZARETH,DEL,Z10,58,1,Discount
+883,DEL086,Executive - Credit Card ,Salaried - MNC,41-50,"104,272",DUMRAC,DEL,D1,28,5,No Discount
+884,DEL087,Mutual Funds - Fidelity ,NMC,gt 60,"87,344",BRUTEK,DEL,B2,37,3,No Discount
+885,DEL088,Mutual Funds - Franklin Temploton,Salaried - MNC,21-30,"54,698",ATTAGG,DEL,T6,32,3,Discount
+886,DEL089,Gold - Credit Card ,NMC,21-30,"85,208",ARTFIN,DEL,A6,47,2,No Discount
+887,DEL090,Executive - Credit Card ,Salaried - MNC,31-40,"27,475",ARTFIN,DEL,A6,47,2,No Discount
+888,DEL091,Current Account,Salaried - MNC,21-30,"415,713",BRUTEK,DEL,B1,41,3,No Discount
+889,DEL092,AIG - Health Insurance ,Salaried - Pvt Ltd ,31-40,"281,642",ATTAGG,DEL,T12,59,2,Discount
+890,DEL093,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,51-60,"496,365",ATTAGG,DEL,T9,32,5,Discount
+891,DEL094,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,41-50,"122,777",BRUTEK,DEL,B6,58,1,No Discount
+892,DEL095,LIC,Housewife,41-50,"268,467",BRUTEK,DEL,B3,35,5,Discount
+893,DEL096,Mutual Funds - TATA,Salaried - MNC,31-40,"426,224",ZARETH,DEL,Z6,57,2,No Discount
+894,DEL097,Gold - Credit Card ,Housewife,51-60,"488,891",CRACKF,DEL,C4,56,4,Discount
+895,DEL098,AIG - Health Insurance ,NMC,51-60,"318,234",ARTFIN,DEL,A3,33,3,Discount
+896,DEL099,Childrens Plan,Salaried - MNC,51-60,"438,551",BRUTEK,DEL,B5,22,3,Discount
+897,DEL100,Classic Card ,Salaried - MNC,51-60,"468,079",BENYYZ,DEL,E1,38,4,No Discount
+898,DEL101,Current Account,Salaried - MNC,41-50,"332,476",ZARETH,DEL,Z1,54,5,Discount
+899,DEL102,Savings Account,Salaried - MNC,41-50,"292,917",BENYYZ,DEL,E1,38,4,No Discount
+900,DEL103,AIG - Health Insurance ,Self Employed,31-40,"354,930",ZARETH,DEL,Z6,57,2,No Discount
+901,DEL104,Gold - Credit Card ,Salaried - Pvt Ltd ,51-60,"466,681",ATTAGG,DEL,T9,32,5,Discount
+902,DEL105,Gold - Credit Card ,Housewife,41-50,"44,917",BENYYZ,DEL,E1,38,4,Discount
+903,DEL106,Childrens Plan,NMC,21-30,"189,826",DUMRAC,DEL,D3,55,3,Discount
+904,DEL107,Gold - Credit Card ,Housewife,31-40,"55,792",DUMRAC,DEL,D2,28,3,Discount
+905,DEL108,Savings Account,Self Employed,31-40,"257,333",ARTFIN,DEL,A5,40,2,No Discount
+906,DEL109,Childrens Plan,Self Employed,31-40,"250,875",BRUTEK,DEL,B4,48,3,No Discount
+907,DEL110,Classic Card ,Housewife,21-30,"35,037",BENYYZ,DEL,E1,38,4,No Discount
+908,DEL111,Metlife - General Insurance ,NMC,31-40,"473,292",DUMRAC,DEL,D2,28,3,No Discount
+909,DEL112,Mutual Funds - Fidelity ,Salaried - MNC,31-40,"47,104",ARTFIN,DEL,A4,60,2,Discount
+910,DEL113,Mutual Funds - Fidelity ,NMC,41-50,"244,280",BENYYZ,DEL,E1,38,4,Discount
+911,DEL114,Executive - Credit Card ,NMC,31-40,"29,602",ARTFIN,DEL,A3,33,3,Discount
+912,DEL115,Mutual Funds - Fidelity ,NMC,21-30,"172,377",ZARETH,DEL,Z2,39,3,No Discount
+913,DEL116,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,31-40,"24,766",BENYYZ,DEL,E1,38,4,Discount
+914,DEL117,Mutual Funds - TATA,Salaried - Pvt Ltd ,31-40,"48,816",ARTFIN,DEL,A3,33,3,No Discount
+915,DEL118,Current Account,NMC,51-60,"19,674",DUMRAC,DEL,D2,28,3,Discount
+916,DEL119,Gold - Credit Card ,NMC,51-60,"353,816",BENYYZ,DEL,E1,38,4,No Discount
+917,DEL120,Savings Account,Self Employed,21-30,"482,234",BRUTEK,DEL,B5,22,3,Discount
+918,DEL121,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,21-30,"321,043",CRACKF,DEL,C1,42,2,Discount
+919,DEL122,LIC,Salaried - MNC,41-50,"316,173",BENYYZ,DEL,E1,38,4,Discount
+920,DEL123,Current Account,Salaried - MNC,gt 60,"98,330",CRACKF,DEL,C1,42,2,Discount
+921,DEL124,Mutual Funds - Franklin Temploton,Housewife,31-40,"25,438",DUMRAC,DEL,D3,55,3,Discount
+922,DEL125,Metlife - General Insurance ,Self Employed,gt 60,"12,306",DUMRAC,DEL,D1,28,5,No Discount
+923,DEL126,Childrens Plan,NMC,41-50,"490,742",BRUTEK,DEL,B1,41,3,No Discount
+924,DEL127,AIG - Health Insurance ,Housewife,51-60,"366,520",DUMRAC,DEL,D2,28,3,Discount
+925,DEL128,AIG - Health Insurance ,Salaried - MNC,51-60,"170,577",ARTFIN,DEL,A5,40,2,No Discount
+926,DEL129,Mutual Funds - Franklin Temploton,Housewife,31-40,"435,452",CRACKF,DEL,C2,37,2,No Discount
+927,DEL130,Current Account,Salaried - Pvt Ltd ,21-30,"426,411",BENYYZ,DEL,E1,38,4,Discount
+928,DEL131,Mutual Funds - TATA,Self Employed,gt 60,"69,751",BENYYZ,DEL,E1,38,4,Discount
+929,DEL132,Mutual Funds - Fidelity ,NMC,31-40,"341,287",ZARETH,DEL,Z5,57,1,Discount
+930,DEL133,Current Account,Salaried - MNC,gt 60,"431,207",CRACKF,DEL,C4,56,4,No Discount
+931,DEL134,Current Account,NMC,31-40,"365,705",ARTFIN,DEL,A5,40,2,Discount
+932,DEL135,Classic Card ,NMC,gt 60,"148,166",BENYYZ,DEL,E1,38,4,Discount
+933,DEL136,AIG - Health Insurance ,Housewife,41-50,"289,245",BRUTEK,DEL,B6,58,1,No Discount
+934,DEL137,Mutual Funds - Fidelity ,Salaried - MNC,21-30,"40,938",ARTFIN,DEL,A6,47,2,No Discount
+935,DEL138,Classic Card ,Housewife,41-50,"322,407",BENYYZ,DEL,E1,38,4,Discount
+936,DEL139,LIC,Salaried - Pvt Ltd ,51-60,"186,163",BRUTEK,DEL,B6,58,1,Discount
+937,DEL140,Executive - Credit Card ,Salaried - MNC,41-50,"177,965",CRACKF,DEL,C2,37,2,Discount
+938,DEL141,Childrens Plan,Salaried - MNC,gt 60,"429,655",CRACKF,DEL,C3,45,4,Discount
+939,DEL142,Mutual Funds - Franklin Temploton,Salaried - Pvt Ltd ,31-40,"20,992",CRACKF,DEL,C2,37,2,Discount
+940,DEL143,Gold - Credit Card ,NMC,41-50,"246,466",BRUTEK,DEL,B3,35,5,Discount
+941,DEL144,Childrens Plan,NMC,41-50,"352,755",BENYYZ,DEL,E1,38,4,No Discount
+942,DEL145,Metlife - General Insurance ,Self Employed,51-60,"311,170",CRACKF,DEL,C4,56,4,No Discount
+943,DEL146,LIC,Salaried - MNC,41-50,"456,979",BENYYZ,DEL,E1,38,4,No Discount
+944,DEL147,Classic Card ,NMC,41-50,"419,022",ATTAGG,DEL,T10,42,5,Discount
+945,DEL148,Current Account,Self Employed,gt 60,"483,956",CRACKF,DEL,C4,56,4,Discount
+946,DEL149,Current Account,Salaried - MNC,21-30,"9,100",CRACKF,DEL,C2,37,2,No Discount
+947,DEL150,Gold - Credit Card ,NMC,gt 60,"10,913",BRUTEK,DEL,B2,37,3,Discount
+948,DEL151,Mutual Funds - Fidelity ,Salaried - Pvt Ltd ,41-50,"146,978",DUMRAC,DEL,D3,55,3,Discount
+949,DEL152,Mutual Funds - TATA,Housewife,21-30,"97,429",CRACKF,DEL,C1,42,2,Discount
+950,DEL153,Classic Card ,Salaried - Pvt Ltd ,gt 60,"167,047",ATTAGG,DEL,T7,28,4,Discount
+951,DEL154,Executive - Credit Card ,Housewife,51-60,"360,121",CRACKF,DEL,C3,45,4,No Discount
+952,DEL155,Executive - Credit Card ,Housewife,51-60,"228,312",BRUTEK,DEL,B6,58,1,Discount
+953,DEL156,LIC,Housewife,51-60,"483,120",BENYYZ,DEL,E1,38,4,Discount
+954,DEL157,Executive - Credit Card ,Salaried - MNC,41-50,"96,875",CRACKF,DEL,C3,45,4,Discount
+955,DEL158,AIG - Health Insurance ,Salaried - Pvt Ltd ,51-60,"400,409",ARTFIN,DEL,A4,60,2,Discount
+956,DEL159,Mutual Funds - Franklin Temploton,Self Employed,31-40,"440,963",ATTAGG,DEL,T12,59,2,Discount
+957,DEL160,AIG - Health Insurance ,Salaried - MNC,41-50,"136,212",ARTFIN,DEL,A2,38,2,No Discount
+958,DEL161,Metlife - General Insurance ,Housewife,gt 60,"253,418",ARTFIN,DEL,A2,38,2,Discount
+959,DEL162,Gold - Credit Card ,Housewife,gt 60,"399,937",ARTFIN,DEL,A6,47,2,No Discount
+960,DEL163,AIG - Health Insurance ,Salaried - MNC,31-40,"64,349",DUMRAC,DEL,D1,28,5,Discount
+961,DEL164,Gold - Credit Card ,Housewife,21-30,"444,595",BENYYZ,DEL,E1,38,4,No Discount
+962,DEL165,Mutual Funds - Franklin Temploton,NMC,31-40,"94,263",ARTFIN,DEL,A6,47,2,No Discount
+963,DEL166,Current Account,Salaried - MNC,31-40,"207,709",ZARETH,DEL,Z6,57,2,Discount
+964,DEL167,Classic Card ,Salaried - MNC,51-60,"67,131",CRACKF,DEL,C2,37,2,No Discount
+965,DEL168,Childrens Plan,NMC,31-40,"323,721",BENYYZ,DEL,E1,38,4,No Discount
+966,DEL169,Mutual Funds - Franklin Temploton,Self Employed,51-60,"67,409",ATTAGG,DEL,T12,59,2,No Discount
+967,DEL170,Classic Card ,NMC,51-60,"121,341",ZARETH,DEL,Z3,29,4,No Discount
+968,DEL171,Classic Card ,Salaried - MNC,41-50,"486,044",ATTAGG,DEL,T12,59,2,No Discount
+969,DEL172,Savings Account,Salaried - Pvt Ltd ,21-30,"293,038",ARTFIN,DEL,A7,24,2,Discount
+970,DEL173,Metlife - General Insurance ,NMC,21-30,"112,413",ATTAGG,DEL,T12,59,2,No Discount
+971,DEL174,Metlife - General Insurance ,NMC,41-50,"431,114",BENYYZ,DEL,E1,38,4,No Discount
+972,DEL175,Savings Account,Self Employed,21-30,"336,920",ZARETH,DEL,Z8,38,5,Discount
+973,DEL176,Executive - Credit Card ,Self Employed,21-30,"248,329",ATTAGG,DEL,T7,28,4,Discount
+974,DEL177,Mutual Funds - TATA,Self Employed,41-50,"283,161",ZARETH,DEL,Z2,39,3,No Discount
+975,DEL178,Gold - Credit Card ,NMC,21-30,"134,072",DUMRAC,DEL,D1,28,5,No Discount
+976,DEL179,Classic Card ,Salaried - MNC,31-40,"404,438",BRUTEK,DEL,B3,35,5,No Discount
+977,DEL180,LIC,Salaried - Pvt Ltd ,gt 60,"62,331",ARTFIN,DEL,A3,33,3,Discount
+978,DEL181,Current Account,Salaried - MNC,41-50,"403,607",ZARETH,DEL,Z6,57,2,No Discount
+979,DEL182,Metlife - General Insurance ,NMC,51-60,"184,007",ARTFIN,DEL,A5,40,2,Discount
+980,DEL183,Current Account,NMC,41-50,"483,418",DUMRAC,DEL,D3,55,3,No Discount
+981,DEL184,Executive - Credit Card ,Salaried - Pvt Ltd ,51-60,"300,975",CRACKF,DEL,C4,56,4,No Discount
+982,DEL185,Current Account,Housewife,gt 60,"16,612",ATTAGG,DEL,T13,46,4,No Discount
+983,DEL186,Current Account,Salaried - MNC,gt 60,"88,215",DUMRAC,DEL,D3,55,3,Discount
+984,DEL187,Mutual Funds - Franklin Temploton,Self Employed,31-40,"85,403",CRACKF,DEL,C2,37,2,No Discount
+985,DEL188,Mutual Funds - TATA,Housewife,31-40,"216,737",ZARETH,DEL,Z4,22,1,Discount
+986,DEL189,Mutual Funds - TATA,Salaried - MNC,51-60,"365,475",ARTFIN,DEL,A2,38,2,No Discount
+987,DEL190,Savings Account,Salaried - Pvt Ltd ,gt 60,"402,762",ARTFIN,DEL,A7,24,2,Discount
+988,DEL191,AIG - Health Insurance ,NMC,51-60,"349,400",ZARETH,DEL,Z10,58,1,Discount
+989,DEL192,AIG - Health Insurance ,Housewife,21-30,"209,462",DUMRAC,DEL,D3,55,3,Discount
+990,DEL193,Current Account,Salaried - Pvt Ltd ,gt 60,"138,125",CRACKF,DEL,C4,56,4,Discount
+991,DEL194,Executive - Credit Card ,Salaried - Pvt Ltd ,31-40,"154,399",ZARETH,DEL,Z9,59,4,Discount
+992,DEL195,Mutual Funds - TATA,Salaried - MNC,31-40,"410,951",ARTFIN,DEL,A3,33,3,Discount
+993,DEL196,Executive - Credit Card ,NMC,21-30,"316,822",BENYYZ,DEL,E1,38,4,No Discount
+994,DEL197,Childrens Plan,Housewife,51-60,"411,480",ARTFIN,DEL,A5,40,2,Discount
+995,DEL198,AIG - Health Insurance ,Self Employed,31-40,"422,730",ZARETH,DEL,Z1,54,5,Discount
+996,DEL199,Mutual Funds - Franklin Temploton,Housewife,31-40,"425,970",DUMRAC,DEL,D2,28,3,Discount
+997,DEL200,Childrens Plan,Self Employed,21-30,"409,784",CRACKF,DEL,C1,42,2,Discount
+998,DEL201,Gold - Credit Card ,Salaried - MNC,51-60,"385,043",BRUTEK,DEL,B5,22,3,Discount
+999,DEL202,Mutual Funds - TATA,NMC,21-30,"351,870",DUMRAC,DEL,D3,55,3,Discount
+1000,DEL203,Classic Card ,Salaried - MNC,31-40,"178,137",CRACKF,DEL,C2,37,2,No Discount
